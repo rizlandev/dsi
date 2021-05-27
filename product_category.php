@@ -2,7 +2,7 @@
   "result": true,
   "product_cat_data": [
     {
-      "cat_id": 5100,
+      "cat_id": 3,
       "cat_code": "x",
       "cat_name": "FLIP FLOPS",
       "sub_category": [
@@ -17,16 +17,16 @@
       ]
     },
     {
-      "cat_id": 5101,
+      "cat_id": 2,
       "cat_code": "xx",
       "cat_name": "GENTS SLIPPERS AND SANDLES",
       "sub_category": [
         {
-          "sub_cat_id": 510107,
+          "sub_cat_id": 4,
           "sub_cat_name": "A"
         },
         {
-          "sub_cat_id": 510108,
+          "sub_cat_id": 4,
           "sub_cat_name": "B"
         }
       ]
