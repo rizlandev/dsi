@@ -7,11 +7,11 @@
       "cat_name": "FLIP FLOPS",
       "sub_category": [
         {
-          "sub_cat_id": 51007,
+          "sub_cat_id": 1,
           "sub_cat_name": "MEN"
         },
         {
-          "sub_cat_id": 51008,
+          "sub_cat_id": 2,
           "sub_cat_name": "WOMEN"
         }
       ]
