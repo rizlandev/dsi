@@ -8,11 +8,31 @@
       "sub_category": [
         {
           "sub_cat_id": 1,
-          "sub_cat_name": "MEN"
+          "sub_cat_name": "MEN",
+           "style": [
+            {
+              "style_id": 1,
+              "style_no": "PI0401",
+              "style_desc": "FREEDOM PI0401-ASSTD"
+            },
+            {
+              "style_id": 2,
+              "style_no": "PI0402",
+              "style_desc": "FREEDOM PI0402-ASSTD"
+            }
+          ]
         },
         {
           "sub_cat_id": 2,
-          "sub_cat_name": "WOMEN"
+          "sub_cat_name": "WOMEN",
+          "style": [
+            {
+              "style_id": 3,
+              "style_no": "GF0130",
+              "style_desc": "BEAT GF0130-ASSTD"
+            }
+          ]
+
         }
       ]
     },
@@ -23,11 +43,13 @@
       "sub_category": [
         {
           "sub_cat_id": 4,
-          "sub_cat_name": "A"
+          "sub_cat_name": "A",
+          "style": []
         },
         {
           "sub_cat_id": 4,
-          "sub_cat_name": "B"
+          "sub_cat_name": "B",
+          "style": []
         }
       ]
     },
