@@ -13,12 +13,14 @@
             {
               "style_id": 1,
               "style_no": "PI0401",
-              "style_desc": "FREEDOM PI0401-ASSTD"
+              "style_desc": "FREEDOM PI0401-ASSTD",
+              "style_img_url": "abc.jpg"
             },
             {
               "style_id": 2,
               "style_no": "PI0402",
-              "style_desc": "FREEDOM PI0402-ASSTD"
+              "style_desc": "FREEDOM PI0402-ASSTD",
+               "style_img_url": "abc.jpg"
             }
           ]
         },
@@ -29,7 +31,13 @@
             {
               "style_id": 3,
               "style_no": "GF0130",
-              "style_desc": "BEAT GF0130-ASSTD"
+              "style_desc": "BEAT GF0130-ASSTD",
+              "style_img_url": "https://ibb.co/XD665Fq"
+            }, {
+              "style_id": 4,
+              "style_no": "GF0131",
+              "style_desc": "BEAT GF0131-ASSTD",
+              "style_img_url": "https://ibb.co/H78crCY"
             }
           ]
 
