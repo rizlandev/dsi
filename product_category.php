@@ -32,12 +32,12 @@
               "style_id": 3,
               "style_no": "GF0130",
               "style_desc": "BEAT GF0130-ASSTD",
-              "style_img_url": "https://homepages.cae.wisc.edu/~ece533/images/cat.png"
+              "style_img_url": "https://i.ibb.co/dtXXpkR/GF0130.jpg"
             }, {
               "style_id": 4,
               "style_no": "GF0131",
               "style_desc": "BEAT GF0131-ASSTD",
-              "style_img_url": "https://homepages.cae.wisc.edu/~ece533/images/baboon.png"
+              "style_img_url": "https://i.ibb.co/xhTnMYG/GF0131.jpg"
             }
           ]
 
