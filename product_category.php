@@ -9,18 +9,18 @@
         {
           "sub_cat_id": 1,
           "sub_cat_name": "MEN",
-           "style": [
+          "style": [
             {
               "style_id": 1,
               "style_no": "PI0401",
               "style_desc": "FREEDOM PI0401-ASSTD",
-              "style_img_url": "https://homepages.cae.wisc.edu/~ece533/images/tulips.png"
+              "style_img_url": "https://i.ibb.co/Tw5f3m4/PI0401.jpg"
             },
             {
               "style_id": 2,
               "style_no": "PI0402",
               "style_desc": "FREEDOM PI0402-ASSTD",
-               "style_img_url": ""
+              "style_img_url": "https://i.ibb.co/44QGvMQ/PI0402.jpg"
             }
           ]
         },
@@ -33,14 +33,14 @@
               "style_no": "GF0130",
               "style_desc": "BEAT GF0130-ASSTD",
               "style_img_url": "https://i.ibb.co/dtXXpkR/GF0130.jpg"
-            }, {
+            },
+            {
               "style_id": 4,
               "style_no": "GF0131",
               "style_desc": "BEAT GF0131-ASSTD",
               "style_img_url": "https://i.ibb.co/xhTnMYG/GF0131.jpg"
             }
           ]
-
         }
       ]
     },
@@ -58,8 +58,14 @@
               "style_no": "GS0530",
               "style_desc": "SLIP GS0530-ASSTD",
               "style_img_url": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png"
+            },
+            {
+              "style_id": 11,
+              "style_no": "GS0531",
+              "style_desc": "SLIP GS0531-ASSTD",
+              "style_img_url": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
             }
-]
+          ]
         },
         {
           "sub_cat_id": 4,
