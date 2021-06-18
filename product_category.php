@@ -52,7 +52,14 @@
         {
           "sub_cat_id": 4,
           "sub_cat_name": "A",
-          "style": []
+          "style": [
+            {
+              "style_id": 10,
+              "style_no": "GS0530",
+              "style_desc": "SLIP GS0530-ASSTD",
+              "style_img_url": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png"
+            }
+]
         },
         {
           "sub_cat_id": 4,
