@@ -6,10 +6,10 @@
       "vehi_code": "001",  
       "vehi_no": "LX-3456"
     },
-    {
-      "vehi_id": 2,
-      "vehi_code": "002",
-      "vehi_no": "LX-5689"
-    }
+     {
+            "vehi_id": 28,
+            "vehi_code": "62",
+            "vehi_no": "WPLI-5355"
+        }
   ]
 }
