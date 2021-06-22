@@ -45,7 +45,7 @@
               "style_id": 0132,
               "style_no": "GF0132",
               "style_desc": "BEAT GF0132-ASSTD",
-              "style_img_url": "https://i.ibb.co/xhTnMYG/GF0131.jpg"
+              "style_img_url": ""
             }
           ]
         }
