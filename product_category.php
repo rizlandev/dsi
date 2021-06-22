@@ -59,19 +59,7 @@
         {
           "sub_cat_id": 52006,
           "sub_cat_name": "ADULT UNISEX",
-          "style": [
-            {
-              "style_id": 0019,
-              "style_no": "YV0019",
-              "style_desc": "3013A105.001-PER-BLACK",
-              "style_img_url": ""
-            },
-           {
-              "style_id": 0020,
-              "style_no": "YV0020",
-              "style_desc": "3013A105.410-PEB-BLUE 02",
-              "style_img_url": ""
-            }
+          "style": [ 
           ]
         }
       ]
