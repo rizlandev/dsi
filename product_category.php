@@ -40,6 +40,12 @@
               "style_no": "GF0131",
               "style_desc": "BEAT GF0131-ASSTD",
               "style_img_url": "https://i.ibb.co/xhTnMYG/GF0131.jpg"
+            },  
+{
+              "style_id": 0132,
+              "style_no": "GF0132",
+              "style_desc": "BEAT GF0132-ASSTD",
+              "style_img_url": "https://i.ibb.co/xhTnMYG/GF0131.jpg"
             }
           ]
         }
@@ -48,43 +54,38 @@
     {
       "cat_id": 5200,
       "cat_code": "xx",
-      "cat_name": "GENTS SLIPPERS AND SANDLES",
+      "cat_name": "GENTS SOCKS",
       "sub_category": [
         {
-          "sub_cat_id": 52007,
-          "sub_cat_name": "A",
+          "sub_cat_id": 52006,
+          "sub_cat_name": "ADULT UNISEX",
           "style": [
             {
-              "style_id": 0530,
-              "style_no": "GS0530",
-              "style_desc": "SLIP GS0530-ASSTD",
-              "style_img_url": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png"
+              "style_id": 0019,
+              "style_no": "YV0019",
+              "style_desc": "3013A105.001-PER-BLACK",
+              "style_img_url": ""
             },
-            {
-              "style_id": 0531,
-              "style_no": "GS0531",
-              "style_desc": "SLIP GS0531-ASSTD",
-              "style_img_url": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+           {
+              "style_id": 0020,
+              "style_no": "YV0020",
+              "style_desc": "3013A105.410-PEB-BLUE 02",
+              "style_img_url": ""
             }
           ]
-        },
-        {
-          "sub_cat_id": 52008,
-          "sub_cat_name": "B",
-          "style": []
         }
       ]
     },
     {
-      "cat_id": 5300,
+      "cat_id": 5102,
       "cat_code": "xxx",
-      "cat_name": "LADIES FOOTWARE",
+      "cat_name": "LADIES FOOTWEAR",
       "sub_category": []
     },
     {
-      "cat_id": 5400,
+      "cat_id": 5302,
       "cat_code": "xxxx",
-      "cat_name": "INFANT FOOTWARE",
+      "cat_name": "VESTS",
       "sub_category": []
     }
   ],
