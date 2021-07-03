@@ -8,13 +8,13 @@
             "discount_type": "cash",
             "range": [
                 {
-                    "min": "0.00",
-                    "max": "100.00",
+                    "min": 0.00,
+                    "max": 100.00,
                     "discount_percent": 5
                 },
                 {
-                    "min": "101.00",
-                    "max": "200.00",
+                    "min": 101.00,
+                    "max": 200.00,
                     "discount_percent": 7
                 }
             ]
