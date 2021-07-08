@@ -13,7 +13,7 @@
       ]
     },
     {
-      "discount_schema_id": 2,
+      "discount_schema_id": 7,
       "valid_outlets": [
         {
           "outlet_id": 1
@@ -21,8 +21,13 @@
       ]
     },
     {
-      "discount_schema_id": 3,
-      "valid_outlets": []
+      "discount_schema_id": 8,
+      "valid_outlets": [
+{
+          "outlet_id": 1
+        }
+
+]
     }
   ]
 }
