@@ -12,7 +12,7 @@
          {
           "town_id": 2,
           "town_name": "town_2"
-        
+        }
       ]
     }
   ]
