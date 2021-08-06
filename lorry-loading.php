@@ -1,30 +1,38 @@
 {
   "result": true,
   "code": 0,
-  "data": {
-    "loading_id": 1,
-    "loading_no": "LD0001",
-    "vehicle_id": 1,
-    "distributor_id": 1,
-    "distributor_name": "Joe Don",
-    "status": "Approved/Accept",
-    "type": "Loading",
-    "created_at": "2021-06-20T04:17:26.000000Z",
-    "loding_products": [
-      {
-        "batch_code": "20210620-1-9241",
-        "product_id": 1,
-        "product_catalog_no": "12311708",
-        "product_catalog_desc": "TY 100*80-12 MC69 GENX DS G-A 08",
-        "qty": 20
-      },
-      {
-        "batch_code": "20210620-2-928B",
-        "product_id": 2,
-        "product_catalog_no": "12390121",
-        "product_catalog_desc": "TY 90*100-10 MC69 GENX DS G- A 21",
-        "qty": 30
-      }
-    ]
-  }
+  "data": [
+    {
+      "loading_id": 1,
+      "loading_no": "LD0001",
+      "vehicle_id": 1,
+      "distributor_id": 1,
+      "distributor_username": "dis01",
+      "distributor_name": "Joe Don",
+      "tso_id": 3,
+      "tso_username": "tso01",
+      "tso_name": "Joe Don",
+      "status": "Approved/Accept",
+      "type": "Loading",
+      "created_at": "2021-07-26T20:29:25.000000Z",
+      "loding_products": [
+        {
+          "batch_code": "20210630-1-0452",
+          "product_id": 3,
+          "product_catalog_no": "GF013003",
+          "product_catalog_desc": "BEAT GF0130-ASSTD 03",
+          "qty": 20,
+          "balance_qty": 20 //only display for TSO
+        },
+        {
+          "batch_code": "20210630-2-0498",
+          "product_id": 4,
+          "product_catalog_no": "GF013004",
+          "product_catalog_desc": "BEAT GF0130-ASSTD 04",
+          "qty": 30,
+          "balance_qty": 30
+        }
+      ]
+    }
+  ]
 }
