@@ -9,7 +9,7 @@
       "substitute_cat_no": "AB261804"
     },{
       "catalog_no": "GF013005",
-      "substitute_cat_no": "AB261904"
+      "substitute_cat_no": "AB261905"
     },{
       "catalog_no": "PI040124",
       "substitute_cat_no": "AB261904"
