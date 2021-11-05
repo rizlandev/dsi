@@ -1,0 +1,67 @@
+{
+  "result": true,
+  "customers": [
+    {
+      "customerId": 5052,
+      "customerName": "TEST GGG",
+      "ownerNic": "122",
+      "imagePath_br": "http://lankem.salespad.lk/lankem/storage/customer_img/2021/11/01/B2cM9GcEsn.png",
+      "owner_religion_id": 2,
+      "owner_race_id": 2,
+      "shop_district_id": 2,
+      "no_shop_assist": 2,
+      "no_shop_applicators": 2,
+      "business_start_year": "2020-20-20",
+      "crew": [
+        {
+          "crew_type_id": 1,
+          "crew_name": "manager",
+          "crew_nic": "123",
+          "crew_bank_acc": "12345",
+          "crew_bank_id": 7287,
+          "crew_branch_id": 163,
+          "crew_religion_id": 1,
+          "crew_race_id": 1,
+          "crew_DOB": "1970-01-20",
+          "crew_mobile": "1"
+        },
+        {
+          "crew_type_id": 2,
+          "crew_name": "assitant-1",
+          "crew_nic": "456-1",
+          "crew_bank_acc": "12345",
+          "crew_bank_id": 7287,
+          "crew_branch_id": 163,
+          "crew_religion_id": 1,
+          "crew_race_id": 1,
+          "crew_DOB": "1970-01-21",
+          "crew_mobile": "2"
+        },
+        {
+          "crew_type_id": 2,
+          "crew_name": "assitant-2",
+          "crew_nic": "456-2",
+          "crew_bank_acc": "12345",
+          "crew_bank_id": 7287,
+          "crew_branch_id": 163,
+          "crew_religion_id": 1,
+          "crew_race_id": 1,
+          "crew_DOB": "1970-01-22",
+          "crew_mobile": "3"
+        },
+        {
+          "crew_type_id": 3,
+          "crew_name": "applicator",
+          "crew_nic": "789",
+          "crew_bank_acc": "12345",
+          "crew_bank_id": 7287,
+          "crew_branch_id": 163,
+          "crew_religion_id": 1,
+          "crew_race_id": 1,
+          "crew_DOB": "1970-01-24",
+          "crew_mobile": "4"
+        }
+      ]
+    }
+  ]
+}
