@@ -2,7 +2,6 @@
   "result": true,
   "customers": [
     {
-    
       "customerId": 5052,
       "customerName": "TEST GGG",
       "ownerNic": "122",
