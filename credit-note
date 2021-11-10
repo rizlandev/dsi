@@ -1,0 +1,40 @@
+{
+  "result": "true",
+  "credit_notes": [
+    {
+      "outlet_id": 68,
+      "outlet_name": "TEST A",
+      "outlet_address": "Address- 1",
+      "notes": [
+        {
+          "date": "2021-11-10",
+          "note_ref_id": "XXXX",
+          "total": "5300.00",
+          "used": "0.00",
+          "balance": "5300.00"
+        },
+        {
+          "date": "2021-11-10",
+          "note_ref_id": "YYYY",
+          "total": "1000.00",
+          "used": "450.00",
+          "balance": "550.00"
+        }
+      ]
+    },
+    {
+      "outlet_id": 70,
+      "outlet_name": "TEST B",
+      "outlet_address": "Address- B",
+      "notes": [
+        {
+          "date": "2021-11-09",
+          "note_ref_id": "ZZZZ",
+          "total": "6500.00",
+          "used": "0.00",
+          "balance": "6500.00"
+        }
+      ]
+    }
+  ]
+}
