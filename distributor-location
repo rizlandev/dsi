@@ -1,0 +1,11 @@
+{
+    "result": true,
+    "dist_loc": {
+        "dis_id": "001",
+        "dis_name": "Test Distributor",
+        "dis_lat": "7.4741334",
+        "dis_lon": "80.3264276",
+        "today_log_status": "0",
+        "remote_log_permission": "0"
+    }
+}
