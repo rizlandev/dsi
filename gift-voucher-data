@@ -8,8 +8,18 @@
     },
     {
       "voucher_id": 2,
+      "voucher_name": "Voucher - Rs. 200",
+      "voucher_value": 200
+    },
+    {
+      "voucher_id": 3,
       "voucher_name": "Voucher - Rs. 500",
       "voucher_value": 500
+    },
+    {
+      "voucher_id": 4,
+      "voucher_name": "Voucher - Rs. 1000",
+      "voucher_value": 1000
     }
   ]
 }
