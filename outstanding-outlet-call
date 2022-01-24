@@ -1,0 +1,21 @@
+{
+  "result": true,
+  "outstanding": [
+    {
+      "outlet_id": 2624,
+      "outlet_name": "Outlet 1",
+      "outlet_address": "test route 2",
+      "invs": [
+        {
+          "i_date": "2022-01-24",
+          "i_time": "17:08:47",
+          "i_code": "DSI/INV/16/000068",
+          "inv_total": 1172.64,
+          "payment": 0,
+          "outstanding": 1172.64,
+          "type": 0
+        }
+      ]
+    }
+  ]
+}
