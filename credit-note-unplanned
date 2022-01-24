@@ -1,0 +1,21 @@
+{
+  "code": 0,
+  "result": true,
+  "msg": "success",
+  "data": [
+    {
+      "outlet_id": 2624,
+      "outlet_name": "Outlet 1",
+      "outlet_address": "test route 2",
+      "notes": [
+        {
+          "date": "2022-01-24",
+          "note_ref_id": "CRN-20220124001",
+          "total": 9395.04,
+          "used": 0,
+          "balance": 9395.04
+        }
+      ]
+    }
+  ]
+}
