@@ -3,8 +3,8 @@
     "dist_loc": {
         "dis_id": "001",
         "dis_name": "Test Distributor",
-        "dis_lat": "7.4741334",
-        "dis_lon": "80.3264276",
+        "dis_lat": "6.8989916",
+        "dis_lon": "79.9165866",
         "today_log_status": "0",
         "remote_log_permission": "0"
     }
