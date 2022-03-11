@@ -1,0 +1,18 @@
+{
+  "result": "true",
+  "outlet_data": [
+    {
+      "outlet_id": 37271,
+      "max_data": [
+        {
+          "item_id": 1,
+          "item_qty": 10
+        },
+        {
+          "item_id": 5,
+          "item_qty": 15
+        }
+      ]
+    }
+  ]
+}
