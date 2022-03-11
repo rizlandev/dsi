@@ -1,0 +1,19 @@
+{
+  "result": "true",
+  "focus_products": [
+    {
+      "item_id": 5
+    },
+    {
+      "item_id": 10
+    }
+  ],
+  "new_products": [
+    {
+      "item_id": 8
+    },
+    {
+      "item_id": 7
+    }
+  ]
+}
