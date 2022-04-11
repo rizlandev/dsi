@@ -1,0 +1,15 @@
+{
+  "result": true,
+  "expenses": [
+    {
+      "exp_type_id": 1,
+      "exp_description": "Travel",
+      "exp_allowed_amount": 5000
+    },
+    {
+      "exp_type_id": 2,
+      "exp_description": "Communications",
+      "exp_allowed_amount": 1000
+    }
+  ]
+}
