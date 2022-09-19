@@ -1,0 +1,21 @@
+{
+    "result": "TRUE",
+    "name": "ARANGA",
+    "postalAddress": "",
+    "userId": "15",
+    "rep_type": "1",
+    "is_blitz": "0",
+    "is_ambassador": "0",
+    "districtId": "1",
+    "territoryId": "7",
+    "route": "no",
+    "rep_mobile_no": "3444",
+    "last_order_id": "INV-BESTO-TRK7-006505",
+    "session": "d6440502b2fa4b7a4c5e769bab4397a9",
+    "territory_category_id": "0",
+    "available_call_order_count": "9999999",
+    "lorry_number": "LN007",
+    "lorry_code": "TRK7",
+    "ticket_num": "TK15/000016",
+    "last_po_id": ""
+}
