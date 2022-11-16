@@ -1,0 +1,26 @@
+{
+  "result": true,
+  "customers": [
+    {
+      "customerId": 4009,
+      "customerName": "TEST NAME X1",
+      "customerAddress": "ADDREEDDDD",
+      "customerCode": "4009",
+      "phoneNumber": "0712323252",
+      "emailAddress": "",
+      "imagePath": "http://lankem.salespad.lk/lankem-test/storage/customer_img/2021/10/18/PmXjmlCDvS.png",
+      "customerCategory": 3,
+      "lat": "7.4360824",
+      "lon": "81.8186674",
+      "mobileNumber": "0711225886",
+      "owner": "",
+      "routeId": 1,
+      "sequenceId": 2,
+      "dateOfBirth": "",
+      "isVatCustomer": false,
+      "vatRegNo": "",
+      "customerType": 0,
+      "credit_period_id": 3
+    }
+  ]
+}
