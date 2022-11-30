@@ -1,0 +1,3495 @@
+{
+  "result": true,
+  "product": [
+    {
+      "itemId": "169",
+      "itemName": "SOLVENT STAIN TEAK-0.25",
+      "stocks": [
+        {
+          "batch_id": "40201",
+          "batch_code": "NP5XC1900/89-0.2506",
+          "d_price": "3009.00",
+          "w_price": "3009.00",
+          "r_price": "3009.00",
+          "stocks": 6
+        }
+      ]
+    },
+    {
+      "itemId": "179",
+      "itemName": "SOLVENT STAIN SOLUBLE MAHOGONY-0.25",
+      "stocks": [
+        {
+          "batch_id": "40206",
+          "batch_code": "NP5XC1900/90-0.2506",
+          "d_price": "3009.00",
+          "w_price": "3009.00",
+          "r_price": "3009.00",
+          "stocks": 3
+        }
+      ]
+    },
+    {
+      "itemId": "193",
+      "itemName": "SOLOVENT STAIN SOLUBLE WALNUT-0.25",
+      "stocks": [
+        {
+          "batch_id": "40216",
+          "batch_code": "NP5XC1900/95-0.2506",
+          "d_price": "3009.00",
+          "w_price": "3009.00",
+          "r_price": "3009.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "224",
+      "itemName": "SL SOLVENT STAIN SOLUBLE MAHOGONY-0.5",
+      "stocks": [
+        {
+          "batch_id": "40230",
+          "batch_code": "NP5XC1900-90SL-0.506",
+          "d_price": "2824.00",
+          "w_price": "2824.00",
+          "r_price": "2824.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "389",
+      "itemName": "05 BW WB WOOD PUTTY PINE-0.5",
+      "stocks": [
+        {
+          "batch_id": "39624",
+          "batch_code": "NP3BWB05-0.506",
+          "d_price": "1326.00",
+          "w_price": "1326.00",
+          "r_price": "1326.00",
+          "stocks": 38
+        }
+      ]
+    },
+    {
+      "itemId": "395",
+      "itemName": "17 BW WB WOOD PUTTY TEAK-0.25",
+      "stocks": [
+        {
+          "batch_id": "39630",
+          "batch_code": "NP3BWB17-0.2506",
+          "d_price": "801.00",
+          "w_price": "801.00",
+          "r_price": "801.00",
+          "stocks": 76
+        }
+      ]
+    },
+    {
+      "itemId": "396",
+      "itemName": "17 BW WB WOOD PUTTY TEAK-0.5",
+      "stocks": [
+        {
+          "batch_id": "39631",
+          "batch_code": "NP3BWB17-0.506",
+          "d_price": "1326.00",
+          "w_price": "1326.00",
+          "r_price": "1326.00",
+          "stocks": 33
+        }
+      ]
+    },
+    {
+      "itemId": "397",
+      "itemName": "17 BW WB WOOD PUTTY TEAK-1",
+      "stocks": [
+        {
+          "batch_id": "39632",
+          "batch_code": "NP3BWB17-106",
+          "d_price": "2170.00",
+          "w_price": "2170.00",
+          "r_price": "2170.00",
+          "stocks": 12
+        }
+      ]
+    },
+    {
+      "itemId": "402",
+      "itemName": "30 BW WB WOOD PUTTY CHERRY-0.25",
+      "stocks": [
+        {
+          "batch_id": "39636",
+          "batch_code": "NP3BWB30-0.2506",
+          "d_price": "801.00",
+          "w_price": "801.00",
+          "r_price": "801.00",
+          "stocks": 16
+        }
+      ]
+    },
+    {
+      "itemId": "403",
+      "itemName": "30 BW WB WOOD PUTTY CHERRY-0.5",
+      "stocks": [
+        {
+          "batch_id": "39637",
+          "batch_code": "NP3BWB30-0.506",
+          "d_price": "1326.00",
+          "w_price": "1326.00",
+          "r_price": "1326.00",
+          "stocks": 34
+        }
+      ]
+    },
+    {
+      "itemId": "404",
+      "itemName": "30 BW WB WOOD PUTTY CHERRY-1",
+      "stocks": [
+        {
+          "batch_id": "39638",
+          "batch_code": "NP3BWB30-106",
+          "d_price": "2170.00",
+          "w_price": "2170.00",
+          "r_price": "2170.00",
+          "stocks": 11
+        }
+      ]
+    },
+    {
+      "itemId": "413",
+      "itemName": "50 BW WB WOOD PUTTY WHITE-0.25",
+      "stocks": [
+        {
+          "batch_id": "39642",
+          "batch_code": "NP3BWB50-0.2506",
+          "d_price": "801.00",
+          "w_price": "801.00",
+          "r_price": "801.00",
+          "stocks": 10
+        }
+      ]
+    },
+    {
+      "itemId": "414",
+      "itemName": "50 BW WB WOOD PUTTY WHITE-0.5",
+      "stocks": [
+        {
+          "batch_id": "39643",
+          "batch_code": "NP3BWB50-0.506",
+          "d_price": "1326.00",
+          "w_price": "1326.00",
+          "r_price": "1326.00",
+          "stocks": 4
+        }
+      ]
+    },
+    {
+      "itemId": "415",
+      "itemName": "50 BW WB WOOD PUTTY WHITE-1",
+      "stocks": [
+        {
+          "batch_id": "39644",
+          "batch_code": "NP3BWB50-106",
+          "d_price": "2170.00",
+          "w_price": "2170.00",
+          "r_price": "2170.00",
+          "stocks": 10
+        }
+      ]
+    },
+    {
+      "itemId": "421",
+      "itemName": "51 BW WB WOOD PUTTY OAK-0.5",
+      "stocks": [
+        {
+          "batch_id": "39649",
+          "batch_code": "NP3BWB51-0.507",
+          "d_price": "1326.00",
+          "w_price": "1326.00",
+          "r_price": "1326.00",
+          "stocks": 12
+        }
+      ]
+    },
+    {
+      "itemId": "437",
+      "itemName": "54 BW WB WOOD PUTTY JACKWOOD-0.5",
+      "stocks": [
+        {
+          "batch_id": "39657",
+          "batch_code": "NP3BWB54-0.506",
+          "d_price": "1326.00",
+          "w_price": "1326.00",
+          "r_price": "1326.00",
+          "stocks": 4
+        }
+      ]
+    },
+    {
+      "itemId": "438",
+      "itemName": "54 BW WB WOOD PUTTY JACKWOOD-1",
+      "stocks": [
+        {
+          "batch_id": "39658",
+          "batch_code": "NP3BWB54-106",
+          "d_price": "2170.00",
+          "w_price": "2170.00",
+          "r_price": "2170.00",
+          "stocks": 32
+        }
+      ]
+    },
+    {
+      "itemId": "450",
+      "itemName": "59 BW WB WOOD PUTTY MED.WALNUT/MDF-0.25",
+      "stocks": [
+        {
+          "batch_id": "39668",
+          "batch_code": "NP3BWB59-0.2506",
+          "d_price": "801.00",
+          "w_price": "801.00",
+          "r_price": "801.00",
+          "stocks": 11
+        }
+      ]
+    },
+    {
+      "itemId": "451",
+      "itemName": "59 BW WB WOOD PUTTY MED.WALNUT/MDF-0.5",
+      "stocks": [
+        {
+          "batch_id": "39669",
+          "batch_code": "NP3BWB59-0.506",
+          "d_price": "1326.00",
+          "w_price": "1326.00",
+          "r_price": "1326.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "452",
+      "itemName": "59 BW WB WOOD PUTTY MED.WALNUT/MDF-1",
+      "stocks": [
+        {
+          "batch_id": "39670",
+          "batch_code": "NP3BWB59-107",
+          "d_price": "2170.00",
+          "w_price": "2170.00",
+          "r_price": "2170.00",
+          "stocks": 11
+        }
+      ]
+    },
+    {
+      "itemId": "457",
+      "itemName": "62 BW WB WOOD PUTTY MAHOGANY-0.25",
+      "stocks": [
+        {
+          "batch_id": "39674",
+          "batch_code": "NP3BWB62-0.2506",
+          "d_price": "801.00",
+          "w_price": "801.00",
+          "r_price": "801.00",
+          "stocks": 35
+        }
+      ]
+    },
+    {
+      "itemId": "458",
+      "itemName": "62 BW WB WOOD PUTTY MAHOGANY-0.5",
+      "stocks": [
+        {
+          "batch_id": "39675",
+          "batch_code": "NP3BWB62-0.506",
+          "d_price": "1326.00",
+          "w_price": "1326.00",
+          "r_price": "1326.00",
+          "stocks": 13
+        }
+      ]
+    },
+    {
+      "itemId": "459",
+      "itemName": "62 BW WB WOOD PUTTY MAHOGANY-1",
+      "stocks": [
+        {
+          "batch_id": "39676",
+          "batch_code": "NP3BWB62-106",
+          "d_price": "2170.00",
+          "w_price": "2170.00",
+          "r_price": "2170.00",
+          "stocks": 4
+        }
+      ]
+    },
+    {
+      "itemId": "464",
+      "itemName": "63 BW WB WOOD PUTTY DARK WALNUT-0.25",
+      "stocks": [
+        {
+          "batch_id": "39680",
+          "batch_code": "NP3BWB63-0.2506",
+          "d_price": "801.00",
+          "w_price": "801.00",
+          "r_price": "801.00",
+          "stocks": 9
+        }
+      ]
+    },
+    {
+      "itemId": "465",
+      "itemName": "63 BW WB WOOD PUTTY DARK WALNUT-0.5",
+      "stocks": [
+        {
+          "batch_id": "39681",
+          "batch_code": "NP3BWB63-0.507",
+          "d_price": "1326.00",
+          "w_price": "1326.00",
+          "r_price": "1326.00",
+          "stocks": 3
+        }
+      ]
+    },
+    {
+      "itemId": "466",
+      "itemName": "63 BW WB WOOD PUTTY DARK WALNUT-1",
+      "stocks": [
+        {
+          "batch_id": "39682",
+          "batch_code": "NP3BWB63-107",
+          "d_price": "2170.00",
+          "w_price": "2170.00",
+          "r_price": "2170.00",
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "itemId": "544",
+      "itemName": "SAYERLACK WOOD PRESERVATIVE CLEAR-10",
+      "stocks": [
+        {
+          "batch_id": "40250",
+          "batch_code": "NP4XW01-1008",
+          "d_price": "12099.00",
+          "w_price": "12099.00",
+          "r_price": "12099.00",
+          "stocks": 8
+        }
+      ]
+    },
+    {
+      "itemId": "547",
+      "itemName": "SAYERLACK WOOD PRESERVATIVE CLEAR-4",
+      "stocks": [
+        {
+          "batch_id": "40253",
+          "batch_code": "NP4XW01-408",
+          "d_price": "4965.00",
+          "w_price": "4965.00",
+          "r_price": "4965.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "974",
+      "itemName": "WB SELF SEALER FOR INTERIOR 10% GLOSS-1",
+      "stocks": [
+        {
+          "batch_id": "39180",
+          "batch_code": "NP4AF7410/00-110",
+          "d_price": "5110.00",
+          "w_price": "5110.00",
+          "r_price": "5110.00",
+          "stocks": 10
+        }
+      ]
+    },
+    {
+      "itemId": "975",
+      "itemName": "WB SELF SEALER FOR INTERIOR 10% GLOSS-2.5",
+      "stocks": [
+        {
+          "batch_id": "39181",
+          "batch_code": "NP4AF7410/00-2.510",
+          "d_price": "12536.00",
+          "w_price": "12536.00",
+          "r_price": "12536.00",
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "itemId": "1023",
+      "itemName": "WB SELF SEALER FOR INTERIOR 40% GLOSS-1",
+      "stocks": [
+        {
+          "batch_id": "39192",
+          "batch_code": "NP4AF7440/00-110",
+          "d_price": "5110.00",
+          "w_price": "5110.00",
+          "r_price": "5110.00",
+          "stocks": 10
+        }
+      ]
+    },
+    {
+      "itemId": "1024",
+      "itemName": "WB SELF SEALER FOR INTERIOR 40% GLOSS-2.5",
+      "stocks": [
+        {
+          "batch_id": "39193",
+          "batch_code": "NP4AF7440/00-2.510",
+          "d_price": "12536.00",
+          "w_price": "12536.00",
+          "r_price": "12536.00",
+          "stocks": 3
+        }
+      ]
+    },
+    {
+      "itemId": "1028",
+      "itemName": "WB SELF SEALER FOR INTERIOR 40% GLOSS-5",
+      "stocks": [
+        {
+          "batch_id": "39197",
+          "batch_code": "NP4AF7440/00-510",
+          "d_price": "25024.00",
+          "w_price": "25024.00",
+          "r_price": "25024.00",
+          "stocks": 6
+        }
+      ]
+    },
+    {
+      "itemId": "1310",
+      "itemName": "WB PRE. EXTERIOR STAIN BLACK-0.5",
+      "stocks": [
+        {
+          "batch_id": "39294",
+          "batch_code": "NP6AM0549/22-0.507",
+          "d_price": "2800.00",
+          "w_price": "2800.00",
+          "r_price": "2800.00",
+          "stocks": 7
+        }
+      ]
+    },
+    {
+      "itemId": "1376",
+      "itemName": "WB PRESERVATIVE WOOD STAIN LARCH/TEAK-0.5",
+      "stocks": [
+        {
+          "batch_id": "39320",
+          "batch_code": "NP6AM0549/85-0.507",
+          "d_price": "2800.00",
+          "w_price": "2800.00",
+          "r_price": "2800.00",
+          "stocks": 33
+        }
+      ]
+    },
+    {
+      "itemId": "1377",
+      "itemName": "WB PRESERVATIVE WOOD STAIN LARCH/TEAK-1L",
+      "stocks": [
+        {
+          "batch_id": "39321",
+          "batch_code": "NP6AM0549/85-107",
+          "d_price": "5417.00",
+          "w_price": "5417.00",
+          "r_price": "5417.00",
+          "stocks": 24
+        }
+      ]
+    },
+    {
+      "itemId": "1382",
+      "itemName": "WB PRESERVATIVE WOOD STAIN LARCH/TEAK-4",
+      "stocks": [
+        {
+          "batch_id": "39323",
+          "batch_code": "NP6AM0549/85-407",
+          "d_price": "20950.00",
+          "w_price": "20950.00",
+          "r_price": "20950.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "1384",
+      "itemName": "WB PRESERVATIVE WOOD STAIN LARCH/TEAK-6",
+      "stocks": [
+        {
+          "batch_id": "39325",
+          "batch_code": "NP6AM0549/85-607",
+          "d_price": "29987.00",
+          "w_price": "29987.00",
+          "r_price": "29987.00",
+          "stocks": 6
+        }
+      ]
+    },
+    {
+      "itemId": "1389",
+      "itemName": "WB PRE.EXTERIOR WOOD STAIN BURMA TEAK-0.5",
+      "stocks": [
+        {
+          "batch_id": "39328",
+          "batch_code": "NP6AM0549/89-0.507",
+          "d_price": "2800.00",
+          "w_price": "2800.00",
+          "r_price": "2800.00",
+          "stocks": 25
+        }
+      ]
+    },
+    {
+      "itemId": "1401",
+      "itemName": "WB PRE. EXTERIOR WOOD STAIN MAHOGANY-0.5",
+      "stocks": [
+        {
+          "batch_id": "39338",
+          "batch_code": "NP6AM0549/90-0.507",
+          "d_price": "2800.00",
+          "w_price": "2800.00",
+          "r_price": "2800.00",
+          "stocks": 33
+        }
+      ]
+    },
+    {
+      "itemId": "1402",
+      "itemName": "WB PRE. EXTERIOR WOOD STAIN MAHOGANY-1L",
+      "stocks": [
+        {
+          "batch_id": "39339",
+          "batch_code": "NP6AM0549/90-107",
+          "d_price": "5417.00",
+          "w_price": "5417.00",
+          "r_price": "5417.00",
+          "stocks": 13
+        }
+      ]
+    },
+    {
+      "itemId": "1407",
+      "itemName": "WB PRE. EXTERIOR WOOD STAIN MAHOGANY-4",
+      "stocks": [
+        {
+          "batch_id": "39341",
+          "batch_code": "NP6AM0549/90-407",
+          "d_price": "20950.00",
+          "w_price": "20950.00",
+          "r_price": "20950.00",
+          "stocks": 12
+        }
+      ]
+    },
+    {
+      "itemId": "1409",
+      "itemName": "WB PRE. EXTERIOR WOOD STAIN MAHOGANY-6",
+      "stocks": [
+        {
+          "batch_id": "39343",
+          "batch_code": "NP6AM549-90:ZB-607",
+          "d_price": "29987.00",
+          "w_price": "29987.00",
+          "r_price": "29987.00",
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "itemId": "1413",
+      "itemName": "WB PRESERVATIVE WOOD STAIN DARK MAHOGANY-1",
+      "stocks": [
+        {
+          "batch_id": "39345",
+          "batch_code": "NP6AM0549/91-107",
+          "d_price": "5417.00",
+          "w_price": "5417.00",
+          "r_price": "5417.00",
+          "stocks": 15
+        }
+      ]
+    },
+    {
+      "itemId": "1416",
+      "itemName": "WB PRESERVATIVE WOOD STAIN DARK MAHOGANY-4",
+      "stocks": [
+        {
+          "batch_id": "39347",
+          "batch_code": "NP6AM0549/91-407",
+          "d_price": "20950.00",
+          "w_price": "20950.00",
+          "r_price": "20950.00",
+          "stocks": 6
+        }
+      ]
+    },
+    {
+      "itemId": "1429",
+      "itemName": "WB PRE. EXTERIOR WOOD STAIN WALNUT-4",
+      "stocks": [
+        {
+          "batch_id": "39355",
+          "batch_code": "NP6AM0549/92-407",
+          "d_price": "20950.00",
+          "w_price": "20950.00",
+          "r_price": "20950.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "1436",
+      "itemName": "WB PRESERVATIVE WOOD STAIN DARK WALN UT-0.5",
+      "stocks": [
+        {
+          "batch_id": "39358",
+          "batch_code": "NP6AM0549/95-0.507",
+          "d_price": "2800.00",
+          "w_price": "2800.00",
+          "r_price": "2800.00",
+          "stocks": 6
+        }
+      ]
+    },
+    {
+      "itemId": "1437",
+      "itemName": "WB PRESERVATIVE WOOD STAIN DARK WALN UT-1",
+      "stocks": [
+        {
+          "batch_id": "39359",
+          "batch_code": "NP6AM0549/95-107",
+          "d_price": "5417.00",
+          "w_price": "5417.00",
+          "r_price": "5417.00",
+          "stocks": 7
+        }
+      ]
+    },
+    {
+      "itemId": "1440",
+      "itemName": "WB PRESERVATIVE WOOD STAIN DARK WALN UT-4",
+      "stocks": [
+        {
+          "batch_id": "39361",
+          "batch_code": "NP6AM0549/95-407",
+          "d_price": "20950.00",
+          "w_price": "20950.00",
+          "r_price": "20950.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "1451",
+      "itemName": "HYDRO PLUS WB BASE COAT FOR EXTERIOR WHITE -1",
+      "stocks": [
+        {
+          "batch_id": "39367",
+          "batch_code": "NP5AM0562/13-106",
+          "d_price": "5753.00",
+          "w_price": "5753.00",
+          "r_price": "5753.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "1989",
+      "itemName": "WB EXTERIOR T/COAT 30% GLOSS-0.5",
+      "stocks": [
+        {
+          "batch_id": "39487",
+          "batch_code": "NP6AZ3230/85-0.507",
+          "d_price": "4916.00",
+          "w_price": "4916.00",
+          "r_price": "4916.00",
+          "stocks": 5
+        }
+      ]
+    },
+    {
+      "itemId": "1990",
+      "itemName": "WB EXTERIOR T/COAT 30% GLOSS-1",
+      "stocks": [
+        {
+          "batch_id": "39488",
+          "batch_code": "NP6AZ3230/85-107",
+          "d_price": "9442.00",
+          "w_price": "9442.00",
+          "r_price": "9442.00",
+          "stocks": 38
+        }
+      ]
+    },
+    {
+      "itemId": "1991",
+      "itemName": "WB EXTERIOR T/COAT 30% GLOSS-2.5",
+      "stocks": [
+        {
+          "batch_id": "39489",
+          "batch_code": "NP6AZ3230/85-2.507",
+          "d_price": "19839.00",
+          "w_price": "19839.00",
+          "r_price": "19839.00",
+          "stocks": 17
+        }
+      ]
+    },
+    {
+      "itemId": "1995",
+      "itemName": "WB EXTERIOR T/COAT 30% GLOSS-5",
+      "stocks": [
+        {
+          "batch_id": "39493",
+          "batch_code": "NP6AZ3230/85-507",
+          "d_price": "39676.00",
+          "w_price": "39676.00",
+          "r_price": "39676.00",
+          "stocks": 12
+        }
+      ]
+    },
+    {
+      "itemId": "2031",
+      "itemName": "WB EXTERIOR T/COAT 60% GLOSS-0.5",
+      "stocks": [
+        {
+          "batch_id": "39507",
+          "batch_code": "NP6AZ3260/85-0.507",
+          "d_price": "4916.00",
+          "w_price": "4916.00",
+          "r_price": "4916.00",
+          "stocks": 38
+        }
+      ]
+    },
+    {
+      "itemId": "2032",
+      "itemName": "WB EXTERIOR T/COAT 60% GLOSS-1",
+      "stocks": [
+        {
+          "batch_id": "39508",
+          "batch_code": "NP6AZ3260/85-107",
+          "d_price": "9442.00",
+          "w_price": "9442.00",
+          "r_price": "9442.00",
+          "stocks": 29
+        }
+      ]
+    },
+    {
+      "itemId": "2033",
+      "itemName": "WB EXTERIOR T/COAT 60% GLOSS-2.5",
+      "stocks": [
+        {
+          "batch_id": "39509",
+          "batch_code": "NP6AZ3260/85-2.507",
+          "d_price": "19839.00",
+          "w_price": "19839.00",
+          "r_price": "19839.00",
+          "stocks": 14
+        }
+      ]
+    },
+    {
+      "itemId": "2037",
+      "itemName": "WB EXTERIOR T/COAT 60% GLOSS-5",
+      "stocks": [
+        {
+          "batch_id": "39513",
+          "batch_code": "NP6AZ3260/85-507",
+          "d_price": "39676.00",
+          "w_price": "39676.00",
+          "r_price": "39676.00",
+          "stocks": 18
+        }
+      ]
+    },
+    {
+      "itemId": "2123",
+      "itemName": "WB EXTERIOR PRESERV. WOOD STAIN GREEN-1",
+      "stocks": [
+        {
+          "batch_id": "39754",
+          "batch_code": "NP5HI2015/00-106",
+          "d_price": "6578.00",
+          "w_price": "6578.00",
+          "r_price": "6578.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "2129",
+      "itemName": "WB EXTERIOR PRESEV. WOOD STAIN RED-0.5",
+      "stocks": [
+        {
+          "batch_id": "39757",
+          "batch_code": "NP5HI2016/00-0.506",
+          "d_price": "3444.00",
+          "w_price": "3444.00",
+          "r_price": "3444.00",
+          "stocks": 12
+        }
+      ]
+    },
+    {
+      "itemId": "2131",
+      "itemName": "WB EXTERIOR PRESEV. WOOD STAIN RED-1",
+      "stocks": [
+        {
+          "batch_id": "39759",
+          "batch_code": "NP5HI2016/00-106",
+          "d_price": "6578.00",
+          "w_price": "6578.00",
+          "r_price": "6578.00",
+          "stocks": 9
+        }
+      ]
+    },
+    {
+      "itemId": "2133",
+      "itemName": "WB EXTERIOR PRESEV. WOOD STAIN RED-4",
+      "stocks": [
+        {
+          "batch_id": "39761",
+          "batch_code": "NP5HI2016/00-406",
+          "d_price": "25852.00",
+          "w_price": "25852.00",
+          "r_price": "25852.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "2157",
+      "itemName": "WB EXTERIOR PRE. WOOD STAIN WAX EFFECT WALNUT-0.5",
+      "stocks": [
+        {
+          "batch_id": "39762",
+          "batch_code": "NP5HI2212/00-0.506",
+          "d_price": "3444.00",
+          "w_price": "3444.00",
+          "r_price": "3444.00",
+          "stocks": 9
+        }
+      ]
+    },
+    {
+      "itemId": "2159",
+      "itemName": "WB EXTERIOR PRE. WOOD STAIN WAX EFFECT WALNUT-1",
+      "stocks": [
+        {
+          "batch_id": "39763",
+          "batch_code": "NP5HI2212/00-106",
+          "d_price": "6578.00",
+          "w_price": "6578.00",
+          "r_price": "6578.00",
+          "stocks": 6
+        }
+      ]
+    },
+    {
+      "itemId": "2164",
+      "itemName": "WB EXTERIOR PRE. WOOD STAIN WAX EFFECT WALNUT-4",
+      "stocks": [
+        {
+          "batch_id": "39766",
+          "batch_code": "NP5HI2212/00-406",
+          "d_price": "25852.00",
+          "w_price": "25852.00",
+          "r_price": "25852.00",
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "itemId": "2179",
+      "itemName": "WB EXTERIOR WOOD STAIN WAX EFFECT MAHOGANY-4",
+      "stocks": [
+        {
+          "batch_id": "39773",
+          "batch_code": "NP5HI2214/00-406",
+          "d_price": "25852.00",
+          "w_price": "25852.00",
+          "r_price": "25852.00",
+          "stocks": 7
+        }
+      ]
+    },
+    {
+      "itemId": "2195",
+      "itemName": "WB EXTERIOR PRE. WOOD STAIN WAX EFFECT TEAK-4",
+      "stocks": [
+        {
+          "batch_id": "39778",
+          "batch_code": "NP5HI2217/00-406",
+          "d_price": "25852.00",
+          "w_price": "25852.00",
+          "r_price": "25852.00",
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "itemId": "2866",
+      "itemName": "PU B/COAT PIGMENTED WHITE-1",
+      "stocks": [
+        {
+          "batch_id": "40044",
+          "batch_code": "NP5TU0574/41-106",
+          "d_price": "4761.00",
+          "w_price": "4761.00",
+          "r_price": "4761.00",
+          "stocks": 8
+        }
+      ]
+    },
+    {
+      "itemId": "3012",
+      "itemName": "PU T/COAT CLEAR (TZ4910)-1",
+      "stocks": [
+        {
+          "batch_id": "40080",
+          "batch_code": "NP7TZ4910/00-108",
+          "d_price": "4130.00",
+          "w_price": "4130.00",
+          "r_price": "4130.00",
+          "stocks": 7
+        }
+      ]
+    },
+    {
+      "itemId": "3021",
+      "itemName": "PU T/COAT CLEAR (TZ4940)-1",
+      "stocks": [
+        {
+          "batch_id": "40085",
+          "batch_code": "NP7TZ4940/00-108",
+          "d_price": "4130.00",
+          "w_price": "4130.00",
+          "r_price": "4130.00",
+          "stocks": 12
+        }
+      ]
+    },
+    {
+      "itemId": "3099",
+      "itemName": "POLIMAT PU T/COAT PIGMENTED H/GLOSS WHITE-1",
+      "stocks": [
+        {
+          "batch_id": "40101",
+          "batch_code": "NP5TZ8695/13-106",
+          "d_price": "5377.00",
+          "w_price": "5377.00",
+          "r_price": "5377.00",
+          "stocks": 6
+        }
+      ]
+    },
+    {
+      "itemId": "3153",
+      "itemName": "PU T/COAT PIGMENTED 25% GLOSS WHITE-1",
+      "stocks": [
+        {
+          "batch_id": "40115",
+          "batch_code": "NP5TZ8825-13-106",
+          "d_price": "6366.00",
+          "w_price": "6366.00",
+          "r_price": "6366.00",
+          "stocks": 3
+        }
+      ]
+    },
+    {
+      "itemId": "3390",
+      "itemName": "WOOD PUTTY CLEAR (TO BE MIXED WITH WOOD DUST)-1",
+      "stocks": [
+        {
+          "batch_id": "40248",
+          "batch_code": "NP5XT590/00-106",
+          "d_price": "6005.00",
+          "w_price": "6005.00",
+          "r_price": "6005.00",
+          "stocks": 15
+        }
+      ]
+    },
+    {
+      "itemId": "3446",
+      "itemName": "PLASTIC HANDLE GREEN ROLLER FOR EXTER WALL 9``-PILE LENG 18MM",
+      "stocks": [
+        {
+          "batch_id": "43525",
+          "batch_code": "NP4BMRB-G-9-18MM07",
+          "d_price": "1803.00",
+          "w_price": "1803.00",
+          "r_price": "1803.00",
+          "stocks": 89
+        }
+      ]
+    },
+    {
+      "itemId": "3456",
+      "itemName": "PLASTIC HANDLE WHITE ROLLER FOR INTER WALL 9``-PILE LENG",
+      "stocks": [
+        {
+          "batch_id": "43529",
+          "batch_code": "NP4BMRB-W-9-13MM07",
+          "d_price": "1743.00",
+          "w_price": "1743.00",
+          "r_price": "1743.00",
+          "stocks": 39
+        }
+      ]
+    },
+    {
+      "itemId": "3463",
+      "itemName": "PYE DAMP SHIELD-1",
+      "stocks": [
+        {
+          "batch_id": "39863",
+          "batch_code": "NP4PRSDS01-108",
+          "d_price": "6864.00",
+          "w_price": "6864.00",
+          "r_price": "6864.00",
+          "stocks": 3
+        }
+      ]
+    },
+    {
+      "itemId": "3523",
+      "itemName": "PU SOLVENT (GENERAL PURPOSE)-0.5",
+      "stocks": [
+        {
+          "batch_id": "39729",
+          "batch_code": "NP3DT446-0.504",
+          "d_price": "1650.00",
+          "w_price": "1650.00",
+          "r_price": "1650.00",
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "itemId": "3524",
+      "itemName": "PU SOLVENT (GENERAL PURPOSE)-1",
+      "stocks": [
+        {
+          "batch_id": "39730",
+          "batch_code": "NP3DT446-108",
+          "d_price": "3052.00",
+          "w_price": "3052.00",
+          "r_price": "3052.00",
+          "stocks": 14
+        }
+      ]
+    },
+    {
+      "itemId": "3530",
+      "itemName": "PU SOLVENT (GENERAL PURPOSE)-4",
+      "stocks": [
+        {
+          "batch_id": "39735",
+          "batch_code": "NP3DT446-408",
+          "d_price": "9788.00",
+          "w_price": "9788.00",
+          "r_price": "9788.00",
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "itemId": "5947",
+      "itemName": "NORTON DRY SAND PAPER A400 - P240",
+      "stocks": [
+        {
+          "batch_id": "43303",
+          "batch_code": "NP2NORTONA400-24005",
+          "d_price": "144.00",
+          "w_price": "144.00",
+          "r_price": "144.00",
+          "stocks": 300
+        }
+      ]
+    },
+    {
+      "itemId": "5948",
+      "itemName": "NORTON DRY SAND PAPER A400 - P280",
+      "stocks": [
+        {
+          "batch_id": "43304",
+          "batch_code": "NP2NORTONA400-28005",
+          "d_price": "144.00",
+          "w_price": "144.00",
+          "r_price": "144.00",
+          "stocks": 150
+        }
+      ]
+    },
+    {
+      "itemId": "5950",
+      "itemName": "NORTON DRY SAND PAPER A400 - P400",
+      "stocks": [
+        {
+          "batch_id": "43306",
+          "batch_code": "NP2NORTONA400-40005",
+          "d_price": "144.00",
+          "w_price": "144.00",
+          "r_price": "144.00",
+          "stocks": 13
+        }
+      ]
+    },
+    {
+      "itemId": "5957",
+      "itemName": "NORTON LION WHITE DRY SHEET 40",
+      "stocks": [
+        {
+          "batch_id": "43313",
+          "batch_code": "NP2NORTONL4005",
+          "d_price": "144.00",
+          "w_price": "144.00",
+          "r_price": "144.00",
+          "stocks": 118
+        }
+      ]
+    },
+    {
+      "itemId": "5959",
+      "itemName": "NORTON LION WHITE DRY SHEET 80",
+      "stocks": [
+        {
+          "batch_id": "43315",
+          "batch_code": "NP2NORTONL8005",
+          "d_price": "144.00",
+          "w_price": "144.00",
+          "r_price": "144.00",
+          "stocks": 17
+        }
+      ]
+    },
+    {
+      "itemId": "5960",
+      "itemName": "NORTON LION CANVAS ROLL 100 (6)",
+      "stocks": [
+        {
+          "batch_id": "43316",
+          "batch_code": "NP2NORTONLCR10003",
+          "d_price": "17955.00",
+          "w_price": "17955.00",
+          "r_price": "17955.00",
+          "stocks": 6
+        }
+      ]
+    },
+    {
+      "itemId": "5962",
+      "itemName": "NORTON LION CANVAS ROLL 120 (6)",
+      "stocks": [
+        {
+          "batch_id": "43318",
+          "batch_code": "NP2NORTONLCR12003",
+          "d_price": "17955.00",
+          "w_price": "17955.00",
+          "r_price": "17955.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "5966",
+      "itemName": "NORTON LION CANVAS ROLL 40 (6)",
+      "stocks": [
+        {
+          "batch_id": "43322",
+          "batch_code": "NP2NORTONLCR4003",
+          "d_price": "17955.00",
+          "w_price": "17955.00",
+          "r_price": "17955.00",
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "itemId": "5969",
+      "itemName": "NORTON LION CANVAS ROLL 80 (6)",
+      "stocks": [
+        {
+          "batch_id": "43325",
+          "batch_code": "NP2NORTONLCR8003",
+          "d_price": "17955.00",
+          "w_price": "17955.00",
+          "r_price": "17955.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "6020",
+      "itemName": "NC SANDING SEALER MAHOGANY-1",
+      "stocks": [
+        {
+          "batch_id": "39891",
+          "batch_code": "NP3SU2348-108",
+          "d_price": "2945.00",
+          "w_price": "2945.00",
+          "r_price": "2945.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "6052",
+      "itemName": "NC SANDING SEALER CON. YELLOWISH-1",
+      "stocks": [
+        {
+          "batch_id": "39903",
+          "batch_code": "NP3SU3268-107",
+          "d_price": "2758.00",
+          "w_price": "2758.00",
+          "r_price": "2758.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "6068",
+      "itemName": "NC SANDING SEALER JACK WOOD-0.5",
+      "stocks": [
+        {
+          "batch_id": "39910",
+          "batch_code": "NP3SU3551-0.507",
+          "d_price": "1731.00",
+          "w_price": "1731.00",
+          "r_price": "1731.00",
+          "stocks": 6
+        }
+      ]
+    },
+    {
+      "itemId": "6078",
+      "itemName": "NC SANDING SEALER TEAK-1",
+      "stocks": [
+        {
+          "batch_id": "39915",
+          "batch_code": "NP3SU6193-107",
+          "d_price": "2945.00",
+          "w_price": "2945.00",
+          "r_price": "2945.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "6209",
+      "itemName": "63642552320 SHS SST 225X275-A257 GNO C120",
+      "stocks": [
+        {
+          "batch_id": "43283",
+          "batch_code": "NP2MASSA-A257-C12005",
+          "d_price": "90.00",
+          "w_price": "90.00",
+          "r_price": "90.00",
+          "stocks": 4
+        }
+      ]
+    },
+    {
+      "itemId": "6941",
+      "itemName": "BRUSH MASTER BRUSH 1",
+      "stocks": [
+        {
+          "batch_id": "39540",
+          "batch_code": "NP5BMB-106",
+          "d_price": "492.00",
+          "w_price": "492.00",
+          "r_price": "492.00",
+          "stocks": 66
+        }
+      ]
+    },
+    {
+      "itemId": "6942",
+      "itemName": "BRUSH MASTER BRUSH 1/2",
+      "stocks": [
+        {
+          "batch_id": "39541",
+          "batch_code": "NP5BMB-1/206",
+          "d_price": "309.00",
+          "w_price": "309.00",
+          "r_price": "309.00",
+          "stocks": 97
+        }
+      ]
+    },
+    {
+      "itemId": "6943",
+      "itemName": "BRUSH MASTER BRUSH 1`1/2",
+      "stocks": [
+        {
+          "batch_id": "39542",
+          "batch_code": "NP5BMB-1`1/206",
+          "d_price": "598.00",
+          "w_price": "598.00",
+          "r_price": "598.00",
+          "stocks": 72
+        }
+      ]
+    },
+    {
+      "itemId": "6944",
+      "itemName": "BRUSH MASTER BRUSH 2",
+      "stocks": [
+        {
+          "batch_id": "39543",
+          "batch_code": "NP5BMB-206",
+          "d_price": "994.00",
+          "w_price": "994.00",
+          "r_price": "994.00",
+          "stocks": 45
+        }
+      ]
+    },
+    {
+      "itemId": "6946",
+      "itemName": "BRUSH MASTER BRUSH 3",
+      "stocks": [
+        {
+          "batch_id": "39545",
+          "batch_code": "NP5BMB-306",
+          "d_price": "1143.00",
+          "w_price": "1143.00",
+          "r_price": "1143.00",
+          "stocks": 3
+        }
+      ]
+    },
+    {
+      "itemId": "6947",
+      "itemName": "BRUSH MASTER BRUSH 4",
+      "stocks": [
+        {
+          "batch_id": "39546",
+          "batch_code": "NP5BMB-406",
+          "d_price": "1779.00",
+          "w_price": "1779.00",
+          "r_price": "1779.00",
+          "stocks": 3
+        }
+      ]
+    },
+    {
+      "itemId": "6948",
+      "itemName": "BRUSH MASTER BRUSH 5",
+      "stocks": [
+        {
+          "batch_id": "39547",
+          "batch_code": "NP5BMB-506",
+          "d_price": "2091.00",
+          "w_price": "2091.00",
+          "r_price": "2091.00",
+          "stocks": 15
+        }
+      ]
+    },
+    {
+      "itemId": "6949",
+      "itemName": "BRUSH MASTER BRUSH 6",
+      "stocks": [
+        {
+          "batch_id": "39548",
+          "batch_code": "NP5BMB-606",
+          "d_price": "2301.00",
+          "w_price": "2301.00",
+          "r_price": "2301.00",
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "itemId": "7352",
+      "itemName": "PLY BLEACHING-1",
+      "stocks": [
+        {
+          "batch_id": "39537",
+          "batch_code": "NP5BA-106",
+          "d_price": "4965.00",
+          "w_price": "4965.00",
+          "r_price": "4965.00",
+          "stocks": 4
+        }
+      ]
+    },
+    {
+      "itemId": "7369",
+      "itemName": "ATLAS ENGLISH ABRASIVES WATER PROOF PAPER 188A - P240",
+      "stocks": [
+        {
+          "batch_id": "43270",
+          "batch_code": "NP2ATLAS188A-24005",
+          "d_price": "153.00",
+          "w_price": "153.00",
+          "r_price": "153.00",
+          "stocks": 276
+        }
+      ]
+    },
+    {
+      "itemId": "7374",
+      "itemName": "ATLAS ENGLISH ABRASIVES WATER PROOF PAPER 188A - P800",
+      "stocks": [
+        {
+          "batch_id": "43275",
+          "batch_code": "NP2ATLAS188A-80005",
+          "d_price": "153.00",
+          "w_price": "153.00",
+          "r_price": "153.00",
+          "stocks": 50
+        }
+      ]
+    },
+    {
+      "itemId": "7378",
+      "itemName": "ATLAS ENGLISH ABRASIVES WATER PROOF PAPER 188D - P100",
+      "stocks": [
+        {
+          "batch_id": "43279",
+          "batch_code": "NP2ATLAS188D-10005",
+          "d_price": "153.00",
+          "w_price": "153.00",
+          "r_price": "153.00",
+          "stocks": 6
+        }
+      ]
+    },
+    {
+      "itemId": "7532",
+      "itemName": "ANTI BORER R-0.2",
+      "stocks": [
+        {
+          "batch_id": "39851",
+          "batch_code": "NP7PO2-0.208",
+          "d_price": "6717.00",
+          "w_price": "6717.00",
+          "r_price": "6717.00",
+          "stocks": 12
+        }
+      ]
+    },
+    {
+      "itemId": "7674",
+      "itemName": "JCHEM WOOD & METAL ALU. SEALER-0.2 L",
+      "stocks": [
+        {
+          "batch_id": "40254",
+          "batch_code": "NP4AS01-0.205",
+          "d_price": "694.00",
+          "w_price": "694.00",
+          "r_price": "694.00",
+          "stocks": 24
+        }
+      ]
+    },
+    {
+      "itemId": "9646",
+      "itemName": "ANTICORROSIVE BLACK-0.5",
+      "stocks": [
+        {
+          "batch_id": "40520",
+          "batch_code": "NP3K01-0.509",
+          "d_price": "1241.00",
+          "w_price": "1241.00",
+          "r_price": "1241.00",
+          "stocks": 6
+        }
+      ]
+    },
+    {
+      "itemId": "9647",
+      "itemName": "ANTICORROSIVE BLACK-1",
+      "stocks": [
+        {
+          "batch_id": "40521",
+          "batch_code": "NP3K01-107",
+          "d_price": "2154.00",
+          "w_price": "2154.00",
+          "r_price": "2154.00",
+          "stocks": 6
+        }
+      ]
+    },
+    {
+      "itemId": "9654",
+      "itemName": "ANTICORROSIVE RED-1",
+      "stocks": [
+        {
+          "batch_id": "40527",
+          "batch_code": "NP3K02-108",
+          "d_price": "2154.00",
+          "w_price": "2154.00",
+          "r_price": "2154.00",
+          "stocks": 12
+        }
+      ]
+    },
+    {
+      "itemId": "9665",
+      "itemName": "ANTICORROSIVE GREEN-0.1",
+      "stocks": [
+        {
+          "batch_id": "40535",
+          "batch_code": "NP3K04-0.107",
+          "d_price": "345.00",
+          "w_price": "345.00",
+          "r_price": "345.00",
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "itemId": "9667",
+      "itemName": "ANTICORROSIVE GREEN-0.5",
+      "stocks": [
+        {
+          "batch_id": "40537",
+          "batch_code": "NP3K04-0.507",
+          "d_price": "1336.00",
+          "w_price": "1336.00",
+          "r_price": "1336.00",
+          "stocks": 25
+        }
+      ]
+    },
+    {
+      "itemId": "9668",
+      "itemName": "ANTICORROSIVE GREEN-1",
+      "stocks": [
+        {
+          "batch_id": "40538",
+          "batch_code": "NP3K04-107",
+          "d_price": "2375.00",
+          "w_price": "2375.00",
+          "r_price": "2375.00",
+          "stocks": 13
+        }
+      ]
+    },
+    {
+      "itemId": "9674",
+      "itemName": "ANTICORROSIVE GRAY-0.5",
+      "stocks": [
+        {
+          "batch_id": "40542",
+          "batch_code": "NP3K05-0.507",
+          "d_price": "1336.00",
+          "w_price": "1336.00",
+          "r_price": "1336.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "9675",
+      "itemName": "ANTICORROSIVE GRAY-1",
+      "stocks": [
+        {
+          "batch_id": "40543",
+          "batch_code": "NP3K05-107",
+          "d_price": "2375.00",
+          "w_price": "2375.00",
+          "r_price": "2375.00",
+          "stocks": 3
+        }
+      ]
+    },
+    {
+      "itemId": "9750",
+      "itemName": "MASTERS CONTACT ADHESIVE-0.05",
+      "stocks": [
+        {
+          "batch_id": "24291",
+          "batch_code": "NP1MCA01-0.0502",
+          "d_price": "124.00",
+          "w_price": "124.00",
+          "r_price": "124.00",
+          "stocks": 6
+        }
+      ]
+    },
+    {
+      "itemId": "9751",
+      "itemName": "MASTERS CONTACT ADHESIVE-0.125",
+      "stocks": [
+        {
+          "batch_id": "24292",
+          "batch_code": "NP1MCA01-0.12502",
+          "d_price": "237.00",
+          "w_price": "237.00",
+          "r_price": "237.00",
+          "stocks": 116
+        }
+      ]
+    },
+    {
+      "itemId": "9752",
+      "itemName": "MASTERS CONTACT ADHESIVE-0.25",
+      "stocks": [
+        {
+          "batch_id": "9752",
+          "batch_code": "NP1MCA01-0.2501",
+          "d_price": "410.00",
+          "w_price": "410.00",
+          "r_price": "410.00",
+          "stocks": 3
+        }
+      ]
+    },
+    {
+      "itemId": "9753",
+      "itemName": "MASTERS CONTACT ADHESIVE-0.5",
+      "stocks": [
+        {
+          "batch_id": "9753",
+          "batch_code": "NP1MCA01-0.501",
+          "d_price": "695.00",
+          "w_price": "695.00",
+          "r_price": "695.00",
+          "stocks": 17
+        }
+      ]
+    },
+    {
+      "itemId": "9782",
+      "itemName": "MASTERS PU COMBO PACK (CLEAR SEALER) -5",
+      "stocks": [
+        {
+          "batch_id": "40593",
+          "batch_code": "NP4MPUSC-509",
+          "d_price": "31460.00",
+          "w_price": "31460.00",
+          "r_price": "31460.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "9795",
+      "itemName": "FLOOR PAINT RED-1",
+      "stocks": [
+        {
+          "batch_id": "40601",
+          "batch_code": "NP4N01-109",
+          "d_price": "2760.00",
+          "w_price": "2760.00",
+          "r_price": "2760.00",
+          "stocks": 12
+        }
+      ]
+    },
+    {
+      "itemId": "9796",
+      "itemName": "FLOOR PAINT RED-4",
+      "stocks": [
+        {
+          "batch_id": "40602",
+          "batch_code": "NP4N01-409",
+          "d_price": "10253.00",
+          "w_price": "10253.00",
+          "r_price": "10253.00",
+          "stocks": 5
+        }
+      ]
+    },
+    {
+      "itemId": "9798",
+      "itemName": "FLOOR PAINT BLACK-0.2",
+      "stocks": [
+        {
+          "batch_id": "40603",
+          "batch_code": "NP3N02-0.208",
+          "d_price": "701.00",
+          "w_price": "701.00",
+          "r_price": "701.00",
+          "stocks": 4
+        }
+      ]
+    },
+    {
+      "itemId": "9799",
+      "itemName": "FLOOR PAINT BLACK-0.5",
+      "stocks": [
+        {
+          "batch_id": "40604",
+          "batch_code": "NP3N02-0.508",
+          "d_price": "1546.00",
+          "w_price": "1546.00",
+          "r_price": "1546.00",
+          "stocks": 24
+        }
+      ]
+    },
+    {
+      "itemId": "9800",
+      "itemName": "FLOOR PAINT BLACK-1",
+      "stocks": [
+        {
+          "batch_id": "40605",
+          "batch_code": "NP3N02-108",
+          "d_price": "2760.00",
+          "w_price": "2760.00",
+          "r_price": "2760.00",
+          "stocks": 18
+        }
+      ]
+    },
+    {
+      "itemId": "9801",
+      "itemName": "FLOOR PAINT BLACK-4",
+      "stocks": [
+        {
+          "batch_id": "40606",
+          "batch_code": "NP3N02-409",
+          "d_price": "10253.00",
+          "w_price": "10253.00",
+          "r_price": "10253.00",
+          "stocks": 4
+        }
+      ]
+    },
+    {
+      "itemId": "9803",
+      "itemName": "FLOOR PAINT BROWN-0.2",
+      "stocks": [
+        {
+          "batch_id": "40607",
+          "batch_code": "NP3N03-0.208",
+          "d_price": "701.00",
+          "w_price": "701.00",
+          "r_price": "701.00",
+          "stocks": 9
+        }
+      ]
+    },
+    {
+      "itemId": "9813",
+      "itemName": "FLOOR PAINT GREEN-0.2",
+      "stocks": [
+        {
+          "batch_id": "40615",
+          "batch_code": "NP3N05-0.208",
+          "d_price": "701.00",
+          "w_price": "701.00",
+          "r_price": "701.00",
+          "stocks": 15
+        }
+      ]
+    },
+    {
+      "itemId": "10726",
+      "itemName": "PERMOGLAZE JOINT COMPOUND-28",
+      "stocks": [
+        {
+          "batch_id": "41061",
+          "batch_code": "NP4PJC-2810",
+          "d_price": "7566.00",
+          "w_price": "7566.00",
+          "r_price": "7566.00",
+          "stocks": 5
+        }
+      ]
+    },
+    {
+      "itemId": "10831",
+      "itemName": "PERMOGLAZE SKIM COAT INTERIOR-20",
+      "stocks": [
+        {
+          "batch_id": "41114",
+          "batch_code": "NP3PSCI-2007",
+          "d_price": "2055.00",
+          "w_price": "2055.00",
+          "r_price": "2055.00",
+          "stocks": 4
+        }
+      ]
+    },
+    {
+      "itemId": "11148",
+      "itemName": "POLYURETHENE VARNISH SUPER-0.5",
+      "stocks": [
+        {
+          "batch_id": "41281",
+          "batch_code": "NP3PV01-0.506",
+          "d_price": "1473.00",
+          "w_price": "1473.00",
+          "r_price": "1473.00",
+          "stocks": 9
+        }
+      ]
+    },
+    {
+      "itemId": "11149",
+      "itemName": "POLYURETHENE VARNISH SUPER-1",
+      "stocks": [
+        {
+          "batch_id": "41282",
+          "batch_code": "NP3PV01-106",
+          "d_price": "2703.00",
+          "w_price": "2703.00",
+          "r_price": "2703.00",
+          "stocks": 12
+        }
+      ]
+    },
+    {
+      "itemId": "11154",
+      "itemName": "POLYURETHENE VARNISH TEAK-0.5",
+      "stocks": [
+        {
+          "batch_id": "41285",
+          "batch_code": "NP4PV02-0.507",
+          "d_price": "1500.00",
+          "w_price": "1500.00",
+          "r_price": "1500.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "11155",
+      "itemName": "POLYURETHENE VARNISH TEAK-1",
+      "stocks": [
+        {
+          "batch_id": "41286",
+          "batch_code": "NP4PV02-107",
+          "d_price": "2826.00",
+          "w_price": "2826.00",
+          "r_price": "2826.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "11156",
+      "itemName": "POLYURETHENE VARNISH TEAK-4",
+      "stocks": [
+        {
+          "batch_id": "41287",
+          "batch_code": "NP4PV02-407",
+          "d_price": "10500.00",
+          "w_price": "10500.00",
+          "r_price": "10500.00",
+          "stocks": 5
+        }
+      ]
+    },
+    {
+      "itemId": "11159",
+      "itemName": "POLYURETHENE VARNISH MAHOGANY-0.5",
+      "stocks": [
+        {
+          "batch_id": "41289",
+          "batch_code": "NP4PV03-0.507",
+          "d_price": "1500.00",
+          "w_price": "1500.00",
+          "r_price": "1500.00",
+          "stocks": 42
+        }
+      ]
+    },
+    {
+      "itemId": "11164",
+      "itemName": "POLYURETHENE VARNISH (MATT)-0.5",
+      "stocks": [
+        {
+          "batch_id": "41293",
+          "batch_code": "NP3PV04-0.506",
+          "d_price": "1547.00",
+          "w_price": "1547.00",
+          "r_price": "1547.00",
+          "stocks": 34
+        }
+      ]
+    },
+    {
+      "itemId": "11165",
+      "itemName": "POLYURETHENE VARNISH (MATT)-1",
+      "stocks": [
+        {
+          "batch_id": "41294",
+          "batch_code": "NP3PV04-106",
+          "d_price": "2748.00",
+          "w_price": "2748.00",
+          "r_price": "2748.00",
+          "stocks": 23
+        }
+      ]
+    },
+    {
+      "itemId": "11166",
+      "itemName": "POLYURETHENE VARNISH (MATT)-4",
+      "stocks": [
+        {
+          "batch_id": "41295",
+          "batch_code": "NP3PV04-406",
+          "d_price": "10331.00",
+          "w_price": "10331.00",
+          "r_price": "10331.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "11170",
+      "itemName": "POLYURETHENE VARNISH JACKWOOD-1",
+      "stocks": [
+        {
+          "batch_id": "41298",
+          "batch_code": "NP3PV07-106",
+          "d_price": "2826.00",
+          "w_price": "2826.00",
+          "r_price": "2826.00",
+          "stocks": 4
+        }
+      ]
+    },
+    {
+      "itemId": "12246",
+      "itemName": "QUICK DRYING ZINC PHOSPHATE METAL PRIMER RED-0.5",
+      "stocks": [
+        {
+          "batch_id": "41732",
+          "batch_code": "NP3Q05-0.507",
+          "d_price": "2064.00",
+          "w_price": "2064.00",
+          "r_price": "2064.00",
+          "stocks": 15
+        }
+      ]
+    },
+    {
+      "itemId": "12247",
+      "itemName": "QUICK DRYING ZINC PHOSPHATE METAL PRIMER RED-1",
+      "stocks": [
+        {
+          "batch_id": "41733",
+          "batch_code": "NP3Q05-107",
+          "d_price": "3844.00",
+          "w_price": "3844.00",
+          "r_price": "3844.00",
+          "stocks": 21
+        }
+      ]
+    },
+    {
+      "itemId": "12248",
+      "itemName": "QUICK DRYING ZINC PHOSPHATE METAL PRIMER RED-4",
+      "stocks": [
+        {
+          "batch_id": "41734",
+          "batch_code": "NP3Q05-408",
+          "d_price": "14394.00",
+          "w_price": "14394.00",
+          "r_price": "14394.00",
+          "stocks": 4
+        }
+      ]
+    },
+    {
+      "itemId": "12250",
+      "itemName": "QUICK DRYING ZINC PHOSPHATE METAL PRIMER BLACK-0.5",
+      "stocks": [
+        {
+          "batch_id": "41735",
+          "batch_code": "NP3Q06-0.507",
+          "d_price": "2012.00",
+          "w_price": "2012.00",
+          "r_price": "2012.00",
+          "stocks": 24
+        }
+      ]
+    },
+    {
+      "itemId": "12251",
+      "itemName": "QUICK DRYING ZINC PHOSPHATE METAL PRIMER BLACK-1",
+      "stocks": [
+        {
+          "batch_id": "41736",
+          "batch_code": "NP3Q06-107",
+          "d_price": "3740.00",
+          "w_price": "3740.00",
+          "r_price": "3740.00",
+          "stocks": 21
+        }
+      ]
+    },
+    {
+      "itemId": "12252",
+      "itemName": "QUICK DRYING ZINC PHOSPHATE METAL PRIMER BLACK-4",
+      "stocks": [
+        {
+          "batch_id": "41737",
+          "batch_code": "NP3Q06-407",
+          "d_price": "14010.00",
+          "w_price": "14010.00",
+          "r_price": "14010.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "12400",
+      "itemName": "JCHEM SANDING SEALER YELLOW (Y)-0.5",
+      "stocks": [
+        {
+          "batch_id": "41817",
+          "batch_code": "NP3SY01-0.507",
+          "d_price": "1422.00",
+          "w_price": "1422.00",
+          "r_price": "1422.00",
+          "stocks": 43
+        }
+      ]
+    },
+    {
+      "itemId": "12455",
+      "itemName": "JCHEM SANDING SEALER MAHOGANY (Y)-0.5",
+      "stocks": [
+        {
+          "batch_id": "41849",
+          "batch_code": "NP3SY09-0.507",
+          "d_price": "1630.00",
+          "w_price": "1630.00",
+          "r_price": "1630.00",
+          "stocks": 14
+        }
+      ]
+    },
+    {
+      "itemId": "12459",
+      "itemName": "JCHEM SANDING SEALER MAHOGANY (Y)-5",
+      "stocks": [
+        {
+          "batch_id": "41851",
+          "batch_code": "NP3SY09-507",
+          "d_price": "13330.00",
+          "w_price": "13330.00",
+          "r_price": "13330.00",
+          "stocks": 11
+        }
+      ]
+    },
+    {
+      "itemId": "12465",
+      "itemName": "JCHEM SANDING SEALER JACKWOOD (Y)-0.5",
+      "stocks": [
+        {
+          "batch_id": "41855",
+          "batch_code": "NP3SY11-0.507",
+          "d_price": "1630.00",
+          "w_price": "1630.00",
+          "r_price": "1630.00",
+          "stocks": 70
+        }
+      ]
+    },
+    {
+      "itemId": "12466",
+      "itemName": "JCHEM SANDING SEALER JACKWOOD (Y)-1",
+      "stocks": [
+        {
+          "batch_id": "41856",
+          "batch_code": "NP3SY11-107",
+          "d_price": "2801.00",
+          "w_price": "2801.00",
+          "r_price": "2801.00",
+          "stocks": 56
+        }
+      ]
+    },
+    {
+      "itemId": "12469",
+      "itemName": "JCHEM SANDING SEALER JACKWOOD (Y)-5",
+      "stocks": [
+        {
+          "batch_id": "41857",
+          "batch_code": "NP3SY11-507",
+          "d_price": "13330.00",
+          "w_price": "13330.00",
+          "r_price": "13330.00",
+          "stocks": 12
+        }
+      ]
+    },
+    {
+      "itemId": "12473",
+      "itemName": "JCHEM SANDING SEALER YELLOW (M) (Y)-1",
+      "stocks": [
+        {
+          "batch_id": "41860",
+          "batch_code": "NP3SY12-107",
+          "d_price": "2603.00",
+          "w_price": "2603.00",
+          "r_price": "2603.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "12476",
+      "itemName": "JCHEM SANDING SEALER YELLOW (M) (Y)-5",
+      "stocks": [
+        {
+          "batch_id": "31079",
+          "batch_code": "NP1SY12-504",
+          "d_price": "5763.00",
+          "w_price": "5763.00",
+          "r_price": "5763.00",
+          "stocks": 2
+        },
+        {
+          "batch_id": "41862",
+          "batch_code": "NP3SY12-507",
+          "d_price": "12588.00",
+          "w_price": "12588.00",
+          "r_price": "12588.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "12549",
+      "itemName": "JCHEM NC T/C GLOSS (R)-5",
+      "stocks": [
+        {
+          "batch_id": "41884",
+          "batch_code": "NP3TR01-509",
+          "d_price": "12417.00",
+          "w_price": "12417.00",
+          "r_price": "12417.00",
+          "stocks": 7
+        }
+      ]
+    },
+    {
+      "itemId": "12571",
+      "itemName": "JCHEM NC T/C GLOSS (Y)-0.5",
+      "stocks": [
+        {
+          "batch_id": "41892",
+          "batch_code": "NP4TY01-0.508",
+          "d_price": "1587.00",
+          "w_price": "1587.00",
+          "r_price": "1587.00",
+          "stocks": 36
+        }
+      ]
+    },
+    {
+      "itemId": "12572",
+      "itemName": "JCHEM NC T/C GLOSS (Y)-1",
+      "stocks": [
+        {
+          "batch_id": "41893",
+          "batch_code": "NP4TY01-108",
+          "d_price": "2843.00",
+          "w_price": "2843.00",
+          "r_price": "2843.00",
+          "stocks": 6
+        }
+      ]
+    },
+    {
+      "itemId": "12575",
+      "itemName": "JCHEM NC T/C GLOSS (Y)-5",
+      "stocks": [
+        {
+          "batch_id": "41895",
+          "batch_code": "NP4TY01-508",
+          "d_price": "13792.00",
+          "w_price": "13792.00",
+          "r_price": "13792.00",
+          "stocks": 10
+        }
+      ]
+    },
+    {
+      "itemId": "12578",
+      "itemName": "JCHEM NC T/C SEMIGLOSS (Y)-0.5",
+      "stocks": [
+        {
+          "batch_id": "41896",
+          "batch_code": "NP3TY02-0.507",
+          "d_price": "1587.00",
+          "w_price": "1587.00",
+          "r_price": "1587.00",
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "itemId": "12579",
+      "itemName": "JCHEM NC T/C SEMIGLOSS (Y)-1",
+      "stocks": [
+        {
+          "batch_id": "41897",
+          "batch_code": "NP3TY02-107",
+          "d_price": "2843.00",
+          "w_price": "2843.00",
+          "r_price": "2843.00",
+          "stocks": 8
+        }
+      ]
+    },
+    {
+      "itemId": "12580",
+      "itemName": "JCHEM NC T/C SEMIGLOSS (Y)-5",
+      "stocks": [
+        {
+          "batch_id": "41898",
+          "batch_code": "NP3TY02-507",
+          "d_price": "13792.00",
+          "w_price": "13792.00",
+          "r_price": "13792.00",
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "itemId": "12584",
+      "itemName": "JCHEM NC T/C GLOSS (ROSEWOOD) (Y)-5",
+      "stocks": [
+        {
+          "batch_id": "41901",
+          "batch_code": "NP3TY03-507",
+          "d_price": "14273.00",
+          "w_price": "14273.00",
+          "r_price": "14273.00",
+          "stocks": 10
+        }
+      ]
+    },
+    {
+      "itemId": "12588",
+      "itemName": "JCHEM NC T/C MATT (H/V) (Y)-0.5",
+      "stocks": [
+        {
+          "batch_id": "41903",
+          "batch_code": "NP3TY05-0.507",
+          "d_price": "1587.00",
+          "w_price": "1587.00",
+          "r_price": "1587.00",
+          "stocks": 28
+        }
+      ]
+    },
+    {
+      "itemId": "12591",
+      "itemName": "JCHEM NC T/C MATT (H/V) (Y)-5",
+      "stocks": [
+        {
+          "batch_id": "41906",
+          "batch_code": "NP3TY05-507",
+          "d_price": "13792.00",
+          "w_price": "13792.00",
+          "r_price": "13792.00",
+          "stocks": 13
+        }
+      ]
+    },
+    {
+      "itemId": "12816",
+      "itemName": "JCHEM WOOD STAIN TEAK (R)-1",
+      "stocks": [
+        {
+          "batch_id": "41978",
+          "batch_code": "NP5WR01-110",
+          "d_price": "2420.00",
+          "w_price": "2420.00",
+          "r_price": "2420.00",
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "itemId": "12818",
+      "itemName": "JCHEM WOOD STAIN TEAK (R)-4",
+      "stocks": [
+        {
+          "batch_id": "41980",
+          "batch_code": "NP5WR01-410",
+          "d_price": "8824.00",
+          "w_price": "8824.00",
+          "r_price": "8824.00",
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "itemId": "12843",
+      "itemName": "JCHEM WOOD STAIN TEAK (Y)-0.25",
+      "stocks": [
+        {
+          "batch_id": "41997",
+          "batch_code": "NP4WY01-0.2508",
+          "d_price": "942.00",
+          "w_price": "942.00",
+          "r_price": "942.00",
+          "stocks": 54
+        }
+      ]
+    },
+    {
+      "itemId": "12845",
+      "itemName": "JCHEM WOOD STAIN TEAK (Y)-1",
+      "stocks": [
+        {
+          "batch_id": "41999",
+          "batch_code": "NP4WY01-109",
+          "d_price": "2994.00",
+          "w_price": "2994.00",
+          "r_price": "2994.00",
+          "stocks": 16
+        }
+      ]
+    },
+    {
+      "itemId": "12850",
+      "itemName": "JCHEM WOOD STAIN MAHOGANY (Y)-0.25",
+      "stocks": [
+        {
+          "batch_id": "42002",
+          "batch_code": "NP4WY02-0.2508",
+          "d_price": "942.00",
+          "w_price": "942.00",
+          "r_price": "942.00",
+          "stocks": 23
+        }
+      ]
+    },
+    {
+      "itemId": "12851",
+      "itemName": "JCHEM WOOD STAIN MAHOGANY (Y)-0.5",
+      "stocks": [
+        {
+          "batch_id": "42003",
+          "batch_code": "NP4WY02-0.509",
+          "d_price": "1635.00",
+          "w_price": "1635.00",
+          "r_price": "1635.00",
+          "stocks": 10
+        }
+      ]
+    },
+    {
+      "itemId": "12852",
+      "itemName": "JCHEM WOOD STAIN MAHOGANY (Y)-1",
+      "stocks": [
+        {
+          "batch_id": "42004",
+          "batch_code": "NP4WY02-108",
+          "d_price": "2994.00",
+          "w_price": "2994.00",
+          "r_price": "2994.00",
+          "stocks": 13
+        }
+      ]
+    },
+    {
+      "itemId": "12854",
+      "itemName": "JCHEM WOOD STAIN MAHOGANY (Y)-4",
+      "stocks": [
+        {
+          "batch_id": "22635",
+          "batch_code": "NP2WY02-402",
+          "d_price": "3560.00",
+          "w_price": "3560.00",
+          "r_price": "3560.00",
+          "stocks": 2
+        },
+        {
+          "batch_id": "42005",
+          "batch_code": "NP4WY02-408",
+          "d_price": "10959.00",
+          "w_price": "10959.00",
+          "r_price": "10959.00",
+          "stocks": 5
+        }
+      ]
+    },
+    {
+      "itemId": "12857",
+      "itemName": "JCHEM WOOD STAIN WALNUT (Y)-0.25",
+      "stocks": [
+        {
+          "batch_id": "42007",
+          "batch_code": "NP4WY03-0.2508",
+          "d_price": "988.00",
+          "w_price": "988.00",
+          "r_price": "988.00",
+          "stocks": 9
+        }
+      ]
+    },
+    {
+      "itemId": "12858",
+      "itemName": "JCHEM WOOD STAIN WALNUT (Y)-0.5",
+      "stocks": [
+        {
+          "batch_id": "42008",
+          "batch_code": "NP4WY03-0.508",
+          "d_price": "1709.00",
+          "w_price": "1709.00",
+          "r_price": "1709.00",
+          "stocks": 10
+        }
+      ]
+    },
+    {
+      "itemId": "12859",
+      "itemName": "JCHEM WOOD STAIN WALNUT (Y)-1",
+      "stocks": [
+        {
+          "batch_id": "42009",
+          "batch_code": "NP4WY03-108",
+          "d_price": "3136.00",
+          "w_price": "3136.00",
+          "r_price": "3136.00",
+          "stocks": 22
+        }
+      ]
+    },
+    {
+      "itemId": "12861",
+      "itemName": "JCHEM WOOD STAIN WALNUT (Y)-4",
+      "stocks": [
+        {
+          "batch_id": "42010",
+          "batch_code": "NP4WY03-408",
+          "d_price": "11471.00",
+          "w_price": "11471.00",
+          "r_price": "11471.00",
+          "stocks": 3
+        }
+      ]
+    },
+    {
+      "itemId": "12865",
+      "itemName": "JCHEM WOOD STAIN BLACK (Y)-0.25",
+      "stocks": [
+        {
+          "batch_id": "42012",
+          "batch_code": "NP3WY07-0.2507",
+          "d_price": "988.00",
+          "w_price": "988.00",
+          "r_price": "988.00",
+          "stocks": 7
+        }
+      ]
+    },
+    {
+      "itemId": "12866",
+      "itemName": "JCHEM WOOD STAIN BLACK (Y)-0.5",
+      "stocks": [
+        {
+          "batch_id": "42013",
+          "batch_code": "NP3WY07-0.507",
+          "d_price": "1709.00",
+          "w_price": "1709.00",
+          "r_price": "1709.00",
+          "stocks": 24
+        }
+      ]
+    },
+    {
+      "itemId": "12867",
+      "itemName": "JCHEM WOOD STAIN BLACK (Y)-1",
+      "stocks": [
+        {
+          "batch_id": "42014",
+          "batch_code": "NP3WY07-107",
+          "d_price": "3136.00",
+          "w_price": "3136.00",
+          "r_price": "3136.00",
+          "stocks": 21
+        }
+      ]
+    },
+    {
+      "itemId": "12871",
+      "itemName": "JCHEM WOOD STAIN JACK WOOD (Y)-0.25",
+      "stocks": [
+        {
+          "batch_id": "42017",
+          "batch_code": "NP3WY08-0.2507",
+          "d_price": "942.00",
+          "w_price": "942.00",
+          "r_price": "942.00",
+          "stocks": 26
+        }
+      ]
+    },
+    {
+      "itemId": "12872",
+      "itemName": "JCHEM WOOD STAIN JACK WOOD (Y)-0.5",
+      "stocks": [
+        {
+          "batch_id": "42018",
+          "batch_code": "NP3WY08-0.507",
+          "d_price": "1635.00",
+          "w_price": "1635.00",
+          "r_price": "1635.00",
+          "stocks": 27
+        }
+      ]
+    },
+    {
+      "itemId": "12873",
+      "itemName": "JCHEM WOOD STAIN JACK WOOD (Y)-1",
+      "stocks": [
+        {
+          "batch_id": "42019",
+          "batch_code": "NP3WY08-107",
+          "d_price": "2994.00",
+          "w_price": "2994.00",
+          "r_price": "2994.00",
+          "stocks": 24
+        }
+      ]
+    },
+    {
+      "itemId": "13015",
+      "itemName": "MASTERS WATERBASE EXTERIOR TOP COAT GLOSS LARCH TEAK-4",
+      "stocks": [
+        {
+          "batch_id": "42045",
+          "batch_code": "NP3WZ8760-X85-406",
+          "d_price": "26715.00",
+          "w_price": "26715.00",
+          "r_price": "26715.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "14071",
+      "itemName": "PERMOGLAZE JOINT COMPOUND-1KG",
+      "stocks": [
+        {
+          "batch_id": "42186",
+          "batch_code": "NP5PJC-110",
+          "d_price": "356.00",
+          "w_price": "356.00",
+          "r_price": "356.00",
+          "stocks": 25
+        }
+      ]
+    },
+    {
+      "itemId": "14785",
+      "itemName": "PU HARDENER FOR WATERBORNE LACQUER-0.1",
+      "stocks": [
+        {
+          "batch_id": "42234",
+          "batch_code": "NP6AH1547/00-0.107",
+          "d_price": "2263.00",
+          "w_price": "2263.00",
+          "r_price": "2263.00",
+          "stocks": 6
+        }
+      ]
+    },
+    {
+      "itemId": "15074",
+      "itemName": "SAYERLACK T/C MATT-0.5",
+      "stocks": [
+        {
+          "batch_id": "42332",
+          "batch_code": "NP3SZP321-0.507",
+          "d_price": "1919.00",
+          "w_price": "1919.00",
+          "r_price": "1919.00",
+          "stocks": 6
+        }
+      ]
+    },
+    {
+      "itemId": "15086",
+      "itemName": "SAYERLACK T/C GLOSS-0.5",
+      "stocks": [
+        {
+          "batch_id": "42343",
+          "batch_code": "NP3SZP329-0.507",
+          "d_price": "1919.00",
+          "w_price": "1919.00",
+          "r_price": "1919.00",
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "itemId": "15311",
+      "itemName": "MASTERS WB PENETRATIVE & PRESERVATIVE WOOD STAIN LARCH TEAK-0.5",
+      "stocks": [
+        {
+          "batch_id": "42393",
+          "batch_code": "NP5WM5400-85-106",
+          "d_price": "1610.00",
+          "w_price": "1610.00",
+          "r_price": "1610.00",
+          "stocks": 7
+        }
+      ]
+    },
+    {
+      "itemId": "15312",
+      "itemName": "MASTERS WB PENETRATIVE & PRESERVATIVE WOOD STAIN LARCH TEAK-1",
+      "stocks": [
+        {
+          "batch_id": "42394",
+          "batch_code": "NP5WM5400-85-2503",
+          "d_price": "3097.00",
+          "w_price": "3097.00",
+          "r_price": "3097.00",
+          "stocks": 10
+        }
+      ]
+    },
+    {
+      "itemId": "15313",
+      "itemName": "MASTERS WB PENETRATIVE & PRESERVATIVE WOOD STAIN LARCH TEAK-4",
+      "stocks": [
+        {
+          "batch_id": "42395",
+          "batch_code": "NP5WM5400-89-0.506",
+          "d_price": "11422.00",
+          "w_price": "11422.00",
+          "r_price": "11422.00",
+          "stocks": 14
+        }
+      ]
+    },
+    {
+      "itemId": "15314",
+      "itemName": "MASTERS WB PENETRATIVE & PRESERVATIVE WOOD STAIN BURMA TEAK-0.5",
+      "stocks": [
+        {
+          "batch_id": "42396",
+          "batch_code": "NP5WM5400-89-106",
+          "d_price": "1610.00",
+          "w_price": "1610.00",
+          "r_price": "1610.00",
+          "stocks": 9
+        }
+      ]
+    },
+    {
+      "itemId": "15317",
+      "itemName": "MASTERS WB PENETRATIVE & PRESERVATIVE WOOD STAIN MAHOGANY-0.5",
+      "stocks": [
+        {
+          "batch_id": "42399",
+          "batch_code": "NP5WM5400-90-106",
+          "d_price": "1610.00",
+          "w_price": "1610.00",
+          "r_price": "1610.00",
+          "stocks": 11
+        }
+      ]
+    },
+    {
+      "itemId": "15318",
+      "itemName": "MASTERS WB PENETRATIVE & PRESERVATIVE WOOD STAIN MAHOGANY-1",
+      "stocks": [
+        {
+          "batch_id": "42400",
+          "batch_code": "NP5WM5400-90-2503",
+          "d_price": "3097.00",
+          "w_price": "3097.00",
+          "r_price": "3097.00",
+          "stocks": 3
+        }
+      ]
+    },
+    {
+      "itemId": "15319",
+      "itemName": "MASTERS WB PENETRATIVE & PRESERVATIVE WOOD STAIN MAHOGANY-4",
+      "stocks": [
+        {
+          "batch_id": "42401",
+          "batch_code": "NP5WM5400-92-0.506",
+          "d_price": "11422.00",
+          "w_price": "11422.00",
+          "r_price": "11422.00",
+          "stocks": 3
+        }
+      ]
+    },
+    {
+      "itemId": "15320",
+      "itemName": "MASTERS WB PENETRATIVE & PRESERVATIVE WOOD STAIN WALNUT-0.5",
+      "stocks": [
+        {
+          "batch_id": "42402",
+          "batch_code": "NP5WM5400-92-106",
+          "d_price": "1750.00",
+          "w_price": "1750.00",
+          "r_price": "1750.00",
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "itemId": "15322",
+      "itemName": "MASTERS WB PENETRATIVE & PRESERVATIVE WOOD STAIN WALNUT-4",
+      "stocks": [
+        {
+          "batch_id": "42404",
+          "batch_code": "NP5WM5400-RAL5015-103",
+          "d_price": "12468.00",
+          "w_price": "12468.00",
+          "r_price": "12468.00",
+          "stocks": 5
+        }
+      ]
+    },
+    {
+      "itemId": "15325",
+      "itemName": "MASTERS WATERBASE EXTERIOR TOP COAT MATT-0.5",
+      "stocks": [
+        {
+          "batch_id": "42406",
+          "batch_code": "NP5WZ8730-85-106",
+          "d_price": "3677.00",
+          "w_price": "3677.00",
+          "r_price": "3677.00",
+          "stocks": 7
+        }
+      ]
+    },
+    {
+      "itemId": "15327",
+      "itemName": "MASTERS WATERBASE EXTERIOR TOP COAT MATT-4",
+      "stocks": [
+        {
+          "batch_id": "42408",
+          "batch_code": "NP5WZ8730-90-403",
+          "d_price": "25494.00",
+          "w_price": "25494.00",
+          "r_price": "25494.00",
+          "stocks": 9
+        }
+      ]
+    },
+    {
+      "itemId": "15330",
+      "itemName": "MASTERS WATERBASE EXTERIOR TOP COAT GLOSS-4",
+      "stocks": [
+        {
+          "batch_id": "42411",
+          "batch_code": "NP5WZ8760-90-403",
+          "d_price": "25494.00",
+          "w_price": "25494.00",
+          "r_price": "25494.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "15503",
+      "itemName": "PU T/COAT CLEAR (TZ4990)-1",
+      "stocks": [
+        {
+          "batch_id": "42459",
+          "batch_code": "NP6TZ4990/00-107",
+          "d_price": "4130.00",
+          "w_price": "4130.00",
+          "r_price": "4130.00",
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "itemId": "15929",
+      "itemName": "BRUSH MASTER BLACK BRUSH 1",
+      "stocks": [
+        {
+          "batch_id": "43532",
+          "batch_code": "NP5BMW-108",
+          "d_price": "360.00",
+          "w_price": "360.00",
+          "r_price": "360.00",
+          "stocks": 39
+        }
+      ]
+    },
+    {
+      "itemId": "15930",
+      "itemName": "BRUSH MASTER BLACK BRUSH 1/2",
+      "stocks": [
+        {
+          "batch_id": "42649",
+          "batch_code": "NP5BMW-1/207",
+          "d_price": "252.00",
+          "w_price": "252.00",
+          "r_price": "252.00",
+          "stocks": 3
+        },
+        {
+          "batch_id": "43533",
+          "batch_code": "NP5BMW-1/208",
+          "d_price": "227.00",
+          "w_price": "227.00",
+          "r_price": "227.00",
+          "stocks": 86
+        }
+      ]
+    },
+    {
+      "itemId": "15932",
+      "itemName": "BRUSH MASTER BLACK BRUSH 2",
+      "stocks": [
+        {
+          "batch_id": "43535",
+          "batch_code": "NP5BMW-208",
+          "d_price": "518.00",
+          "w_price": "518.00",
+          "r_price": "518.00",
+          "stocks": 36
+        }
+      ]
+    },
+    {
+      "itemId": "15933",
+      "itemName": "BRUSH MASTER BLACK BRUSH 2`1/2",
+      "stocks": [
+        {
+          "batch_id": "43536",
+          "batch_code": "NP5BMW-2`1/208",
+          "d_price": "707.00",
+          "w_price": "707.00",
+          "r_price": "707.00",
+          "stocks": 3
+        }
+      ]
+    },
+    {
+      "itemId": "15934",
+      "itemName": "BRUSH MASTER BLACK BRUSH 3",
+      "stocks": [
+        {
+          "batch_id": "43537",
+          "batch_code": "NP5BMW-308",
+          "d_price": "830.00",
+          "w_price": "830.00",
+          "r_price": "830.00",
+          "stocks": 18
+        }
+      ]
+    },
+    {
+      "itemId": "15937",
+      "itemName": "BRUSH MASTER BLACK BRUSH 6",
+      "stocks": [
+        {
+          "batch_id": "42656",
+          "batch_code": "NP5BMW-607",
+          "d_price": "1277.00",
+          "w_price": "1277.00",
+          "r_price": "1277.00",
+          "stocks": 3
+        }
+      ]
+    },
+    {
+      "itemId": "16355",
+      "itemName": "HARRIS CLASSIC BRUSH-1/2\"",
+      "stocks": [
+        {
+          "batch_id": "43548",
+          "batch_code": "NP5OCB-1/207",
+          "d_price": "346.00",
+          "w_price": "346.00",
+          "r_price": "346.00",
+          "stocks": 308
+        }
+      ]
+    },
+    {
+      "itemId": "16357",
+      "itemName": "HARRIS CLASSIC BRUSH-2\"",
+      "stocks": [
+        {
+          "batch_id": "43550",
+          "batch_code": "NP5OCB-207",
+          "d_price": "997.00",
+          "w_price": "997.00",
+          "r_price": "997.00",
+          "stocks": 326
+        }
+      ]
+    },
+    {
+      "itemId": "16358",
+      "itemName": "HARRIS CLASSIC BRUSH-4\"",
+      "stocks": [
+        {
+          "batch_id": "42940",
+          "batch_code": "NP5OCB-406",
+          "d_price": "2232.00",
+          "w_price": "2232.00",
+          "r_price": "2232.00",
+          "stocks": 3
+        }
+      ]
+    },
+    {
+      "itemId": "16359",
+      "itemName": "HARRIS CLASSIC BRUSH-5\"",
+      "stocks": [
+        {
+          "batch_id": "43554",
+          "batch_code": "NP5OCB-507",
+          "d_price": "2434.00",
+          "w_price": "2434.00",
+          "r_price": "2434.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "16360",
+      "itemName": "9â€ HARRIS CLASSIC ROLLER â€“ EXTERIOR (LONG PILE SLEEVE)",
+      "stocks": [
+        {
+          "batch_id": "43557",
+          "batch_code": "NP4OCR-907",
+          "d_price": "1861.00",
+          "w_price": "1861.00",
+          "r_price": "1861.00",
+          "stocks": 5
+        }
+      ]
+    },
+    {
+      "itemId": "16361",
+      "itemName": "7â€ HARRIS CLASSIC ROLLER â€“ EXTERIOR (LONG PILE SLEEVE)",
+      "stocks": [
+        {
+          "batch_id": "43556",
+          "batch_code": "NP4OCR-706",
+          "d_price": "1246.00",
+          "w_price": "1246.00",
+          "r_price": "1246.00",
+          "stocks": 125
+        }
+      ]
+    },
+    {
+      "itemId": "16462",
+      "itemName": "SIKALASTIC-590 WHITE PI 20KG",
+      "stocks": [
+        {
+          "batch_id": "30273",
+          "batch_code": "NP1JCS-590WT-2003",
+          "d_price": "38294.00",
+          "w_price": "38294.00",
+          "r_price": "38294.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "16464",
+      "itemName": "SIKALASTIC-590 DECKSEAL GREY-4",
+      "stocks": [
+        {
+          "batch_id": "24629",
+          "batch_code": "NP1JCS-DS590GY-402",
+          "d_price": "8400.00",
+          "w_price": "8400.00",
+          "r_price": "8400.00",
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "itemId": "16465",
+      "itemName": "SIKALASTIC-590 DECKSEAL WHITE-4",
+      "stocks": [
+        {
+          "batch_id": "24630",
+          "batch_code": "NP1JCS-DS590WT-402",
+          "d_price": "8450.00",
+          "w_price": "8450.00",
+          "r_price": "8450.00",
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "itemId": "16481",
+      "itemName": "HARRIS BUDGET BRUSH-3\"",
+      "stocks": [
+        {
+          "batch_id": "43543",
+          "batch_code": "NP4OBB-306",
+          "d_price": "614.00",
+          "w_price": "614.00",
+          "r_price": "614.00",
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "itemId": "16482",
+      "itemName": "HARRIS BUDGET BRUSH-2\"",
+      "stocks": [
+        {
+          "batch_id": "43541",
+          "batch_code": "NP4OBB-206",
+          "d_price": "491.00",
+          "w_price": "491.00",
+          "r_price": "491.00",
+          "stocks": 357
+        }
+      ]
+    },
+    {
+      "itemId": "16484",
+      "itemName": "HARRIS BUDGET BRUSH-1\"",
+      "stocks": [
+        {
+          "batch_id": "43538",
+          "batch_code": "NP4OBB-106",
+          "d_price": "265.00",
+          "w_price": "265.00",
+          "r_price": "265.00",
+          "stocks": 62
+        }
+      ]
+    },
+    {
+      "itemId": "16498",
+      "itemName": "INSTANT HAND SANITIZER LIQUID-0.1",
+      "stocks": [
+        {
+          "batch_id": "38793",
+          "batch_code": "NP1JC/SAN02-0.104",
+          "d_price": "358.00",
+          "w_price": "358.00",
+          "r_price": "358.00",
+          "stocks": 80
+        }
+      ]
+    },
+    {
+      "itemId": "16505",
+      "itemName": "CAULKING GUN 600ML (JS-8608-2)",
+      "stocks": [
+        {
+          "batch_id": "30272",
+          "batch_code": "NP1JCS-62871402",
+          "d_price": "2597.00",
+          "w_price": "2597.00",
+          "r_price": "2597.00",
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "itemId": "16510",
+      "itemName": "HARRIS CLASSIC BRUSH-1",
+      "stocks": [
+        {
+          "batch_id": "43547",
+          "batch_code": "NP4OCB-108",
+          "d_price": "500.00",
+          "w_price": "500.00",
+          "r_price": "500.00",
+          "stocks": 43
+        }
+      ]
+    },
+    {
+      "itemId": "16511",
+      "itemName": "HARRIS CLASSIC BRUSH-1 1/2\"",
+      "stocks": [
+        {
+          "batch_id": "43549",
+          "batch_code": "NP5OCB-11/207",
+          "d_price": "635.00",
+          "w_price": "635.00",
+          "r_price": "635.00",
+          "stocks": 24
+        }
+      ]
+    },
+    {
+      "itemId": "16512",
+      "itemName": "HARRIS CLASSIC BRUSH-2 1/2\"",
+      "stocks": [
+        {
+          "batch_id": "43551",
+          "batch_code": "NP5OCB-21/207",
+          "d_price": "1237.00",
+          "w_price": "1237.00",
+          "r_price": "1237.00",
+          "stocks": 24
+        }
+      ]
+    },
+    {
+      "itemId": "16515",
+      "itemName": "HARRIS BUDGET BRUSH-1/2\"",
+      "stocks": [
+        {
+          "batch_id": "43539",
+          "batch_code": "NP4OBB-1/206",
+          "d_price": "197.00",
+          "w_price": "197.00",
+          "r_price": "197.00",
+          "stocks": 337
+        }
+      ]
+    },
+    {
+      "itemId": "16516",
+      "itemName": "HARRIS BUDGET BRUSH-2 1/2\"",
+      "stocks": [
+        {
+          "batch_id": "43542",
+          "batch_code": "NP4OBB-21/206",
+          "d_price": "565.00",
+          "w_price": "565.00",
+          "r_price": "565.00",
+          "stocks": 134
+        }
+      ]
+    },
+    {
+      "itemId": "16517",
+      "itemName": "HARRIS BUDGET BRUSH-4\"",
+      "stocks": [
+        {
+          "batch_id": "43040",
+          "batch_code": "NP4OBB-405",
+          "d_price": "1577.00",
+          "w_price": "1577.00",
+          "r_price": "1577.00",
+          "stocks": 1
+        },
+        {
+          "batch_id": "43544",
+          "batch_code": "NP4OBB-406",
+          "d_price": "946.00",
+          "w_price": "946.00",
+          "r_price": "946.00",
+          "stocks": 3
+        }
+      ]
+    },
+    {
+      "itemId": "16552",
+      "itemName": "SIKATOPSEAL-109 (A) WHITE PL 10KG",
+      "stocks": [
+        {
+          "batch_id": "30264",
+          "batch_code": "NP1JCS-660903-1002",
+          "d_price": "13304.00",
+          "w_price": "13304.00",
+          "r_price": "13304.00",
+          "stocks": 10
+        }
+      ]
+    },
+    {
+      "itemId": "16553",
+      "itemName": "INSTANT HAND SANITIZER LIQUID-0.5",
+      "stocks": [
+        {
+          "batch_id": "38794",
+          "batch_code": "NP1JC/SAN02-0.504",
+          "d_price": "943.00",
+          "w_price": "943.00",
+          "r_price": "943.00",
+          "stocks": 3
+        }
+      ]
+    },
+    {
+      "itemId": "16563",
+      "itemName": "WHITE BY JAT INTERIOR EMULSION-1",
+      "stocks": [
+        {
+          "batch_id": "43081",
+          "batch_code": "NP4JW/EM9000-107",
+          "d_price": "3470.00",
+          "w_price": "3470.00",
+          "r_price": "3470.00",
+          "stocks": 51
+        }
+      ]
+    },
+    {
+      "itemId": "16564",
+      "itemName": "WHITE BY JAT INTERIOR EMULSION-10",
+      "stocks": [
+        {
+          "batch_id": "43082",
+          "batch_code": "NP4JW/EM9000-1007",
+          "d_price": "30749.00",
+          "w_price": "30749.00",
+          "r_price": "30749.00",
+          "stocks": 11
+        }
+      ]
+    },
+    {
+      "itemId": "16565",
+      "itemName": "WHITE BY JAT INTERIOR EMULSION-20",
+      "stocks": [
+        {
+          "batch_id": "43083",
+          "batch_code": "NP4JW/EM9000-2007",
+          "d_price": "58952.00",
+          "w_price": "58952.00",
+          "r_price": "58952.00",
+          "stocks": 8
+        }
+      ]
+    },
+    {
+      "itemId": "16566",
+      "itemName": "WHITE BY JAT INTERIOR EMULSION-4",
+      "stocks": [
+        {
+          "batch_id": "43084",
+          "batch_code": "NP4JW/EM9000-407",
+          "d_price": "12928.00",
+          "w_price": "12928.00",
+          "r_price": "12928.00",
+          "stocks": 54
+        }
+      ]
+    },
+    {
+      "itemId": "16567",
+      "itemName": "WHITE BY JAT EXTERIOR EMULSION-1",
+      "stocks": [
+        {
+          "batch_id": "43085",
+          "batch_code": "NP4JW/WC8000-107",
+          "d_price": "4067.00",
+          "w_price": "4067.00",
+          "r_price": "4067.00",
+          "stocks": 20
+        }
+      ]
+    },
+    {
+      "itemId": "16568",
+      "itemName": "WHITE BY JAT EXTERIOR EMULSION-10",
+      "stocks": [
+        {
+          "batch_id": "43086",
+          "batch_code": "NP4JW/WC8000-1007",
+          "d_price": "37608.00",
+          "w_price": "37608.00",
+          "r_price": "37608.00",
+          "stocks": 22
+        }
+      ]
+    },
+    {
+      "itemId": "16569",
+      "itemName": "WHITE BY JAT EXTERIOR EMULSION-20",
+      "stocks": [
+        {
+          "batch_id": "43087",
+          "batch_code": "NP4JW/WC8000-2007",
+          "d_price": "74103.00",
+          "w_price": "74103.00",
+          "r_price": "74103.00",
+          "stocks": 19
+        }
+      ]
+    },
+    {
+      "itemId": "16570",
+      "itemName": "WHITE BY JAT EXTERIOR EMULSION-4",
+      "stocks": [
+        {
+          "batch_id": "43088",
+          "batch_code": "NP4JW/WC8000-407",
+          "d_price": "15968.00",
+          "w_price": "15968.00",
+          "r_price": "15968.00",
+          "stocks": 35
+        }
+      ]
+    },
+    {
+      "itemId": "16571",
+      "itemName": "PU HARDENER-1",
+      "stocks": [
+        {
+          "batch_id": "43089",
+          "batch_code": "NP4JH0801/00-107",
+          "d_price": "4736.00",
+          "w_price": "4736.00",
+          "r_price": "4736.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "16614",
+      "itemName": "WHITE BY JAT INTERIOR WALL FILLER-4",
+      "stocks": [
+        {
+          "batch_id": "43589",
+          "batch_code": "NP4JW/WFI01-408",
+          "d_price": "4280.00",
+          "w_price": "4280.00",
+          "r_price": "4280.00",
+          "stocks": 3
+        }
+      ]
+    },
+    {
+      "itemId": "16615",
+      "itemName": "WHITE BY JAT INTERIOR WALL FILLER-10",
+      "stocks": [
+        {
+          "batch_id": "43587",
+          "batch_code": "NP4JW/WFI01-1008",
+          "d_price": "10370.00",
+          "w_price": "10370.00",
+          "r_price": "10370.00",
+          "stocks": 3
+        }
+      ]
+    },
+    {
+      "itemId": "16616",
+      "itemName": "WHITE BY JAT INTERIOR WALL FILLER-20",
+      "stocks": [
+        {
+          "batch_id": "43588",
+          "batch_code": "NP4JW/WFI01-2008",
+          "d_price": "18490.00",
+          "w_price": "18490.00",
+          "r_price": "18490.00",
+          "stocks": 10
+        }
+      ]
+    },
+    {
+      "itemId": "16618",
+      "itemName": "MASTERS CEILING COAT TEAK-1",
+      "stocks": [
+        {
+          "batch_id": "43570",
+          "batch_code": "NP3MC2021-56-106",
+          "d_price": "6155.00",
+          "w_price": "6155.00",
+          "r_price": "6155.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "16619",
+      "itemName": "MASTERS CEILING COAT TEAK-4",
+      "stocks": [
+        {
+          "batch_id": "43571",
+          "batch_code": "NP3MC2021-56-406",
+          "d_price": "22593.00",
+          "w_price": "22593.00",
+          "r_price": "22593.00",
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "itemId": "16621",
+      "itemName": "MASTERS CEILING COAT MAHOGANY-1",
+      "stocks": [
+        {
+          "batch_id": "43572",
+          "batch_code": "NP3MC2021-57-106",
+          "d_price": "6155.00",
+          "w_price": "6155.00",
+          "r_price": "6155.00",
+          "stocks": 3
+        }
+      ]
+    },
+    {
+      "itemId": "16624",
+      "itemName": "MASTERS CEILING COAT AFRICAN WALNUT-1",
+      "stocks": [
+        {
+          "batch_id": "43574",
+          "batch_code": "NP3MC2021-58-106",
+          "d_price": "6155.00",
+          "w_price": "6155.00",
+          "r_price": "6155.00",
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "itemId": "16625",
+      "itemName": "MASTERS CEILING COAT AFRICAN WALNUT-4",
+      "stocks": [
+        {
+          "batch_id": "43575",
+          "batch_code": "NP3MC2021-58-406",
+          "d_price": "22593.00",
+          "w_price": "22593.00",
+          "r_price": "22593.00",
+          "stocks": 3
+        }
+      ]
+    },
+    {
+      "itemId": "16628",
+      "itemName": "MASTERS CEILING COAT HONEY-4",
+      "stocks": [
+        {
+          "batch_id": "43577",
+          "batch_code": "NP3MC2021-59-406",
+          "d_price": "22593.00",
+          "w_price": "22593.00",
+          "r_price": "22593.00",
+          "stocks": 4
+        }
+      ]
+    },
+    {
+            "itemId": "15931",
+            "itemName": "BRUSH MASTER BLACK BRUSH 1`1/2",
+            "stocks": [
+                {
+                    "batch_id": "43534",
+                    "batch_code": "NP5BMW-1`1/208",
+                    "d_price": "415.00",
+                    "w_price": "415.00",
+                    "r_price": "415.00",
+                    "stocks": 1
+                }
+            ]
+        }
+  ]
+}
