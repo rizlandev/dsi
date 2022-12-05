@@ -2,23 +2,16 @@
   "result": "true",
   "credit_notes": [
     {
-      "outlet_id": 68,
-      "outlet_name": "TEST A",
-      "outlet_address": "Address- 1",
+      "outlet_id": 6559,
+      "outlet_name": "BANDULA TEXTILES",
+      "outlet_address": "NO 43. D.S SEENANAYAKA MAWATA,HIGURAKGODA,HIGURAKGODA,",
       "notes": [
         {
           "date": "2021-11-10",
           "note_ref_id": "XXXX",
-          "total": "5300.00",
+          "total": "530.00",
           "used": "0.00",
-          "balance": "5300.00"
-        },
-        {
-          "date": "2021-11-10",
-          "note_ref_id": "YYYY",
-          "total": "1000.00",
-          "used": "450.00",
-          "balance": "550.00"
+          "balance": "530.00"
         }
       ]
     },
