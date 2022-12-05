@@ -4,7 +4,7 @@
     {
       "out_id": 6559,
       "out_name": "BANDULA TEXTILES",
-      "out_address": "NO 43. D.S SEENANAYAKA MAWATA,HIGURAKGODA,HIGURAKGODA,"
+      "out_address": "NO 43. D.S SEENANAYAKA MAWATA,HIGURAKGODA,HIGURAKGODA,",
       "invs": [
         {
           "i_date": "2021-07-09",
