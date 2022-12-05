@@ -14,20 +14,6 @@
           "balance": "530.00"
         }
       ]
-    },
-    {
-      "outlet_id": 70,
-      "outlet_name": "TEST B",
-      "outlet_address": "Address- B",
-      "notes": [
-        {
-          "date": "2021-11-09",
-          "note_ref_id": "ZZZZ",
-          "total": "6500.00",
-          "used": "0.00",
-          "balance": "6500.00"
-        }
-      ]
     }
   ]
 }
