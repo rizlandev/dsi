@@ -2,9 +2,9 @@
   "result": "true",
   "outstanding": [
     {
-      "out_id": 31,
-      "out_name": "ABC Shoe Palace",
-      "out_address": "257, Highlevel Road, Maharagama",
+      "out_id": 6559,
+      "out_name": "BANDULA TEXTILES",
+      "out_address": "NO 43. D.S SEENANAYAKA MAWATA,HIGURAKGODA,HIGURAKGODA,"
       "invs": [
         {
           "i_date": "2021-07-09",
