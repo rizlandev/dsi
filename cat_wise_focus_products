@@ -1,0 +1,23 @@
+{
+  "result": true,
+  "categories": [
+    {
+      "customer_category_id": 1,
+      "customer_category_name": "Whole Sale",
+      "focus_prod": [
+        {
+          "productId": 76
+        }
+      ]
+    },
+    {
+      "customer_category_id": 2,
+      "customer_category_name": "ISM",
+      "focus_prod": [
+        {
+          "productId": 289
+        }
+      ]
+    }
+  ]
+} 
