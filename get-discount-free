@@ -1,0 +1,23 @@
+{
+  "result": true,
+  "freeIssues": [
+    {
+      "freeIssueId": "1",
+      "freeLabel": "Promo  11:1 free discount",
+      "lowerLimit": "11",
+      "upperLimit": "9999999999",
+      "purchaseQty": "11",
+      "freeQty": "1",
+      "purchaseItems": [
+        {
+          "proId": 124200,
+          "proCatalog": "GF018303"
+        },
+        {
+          "proId": 124201,
+          "proCatalog": "GF018304"
+        }
+      ]
+    }
+  ]
+}
