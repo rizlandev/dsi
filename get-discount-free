@@ -5,7 +5,7 @@
       "freeIssueId": "1",
       "freeLabel": "Promo  11:1 free discount",
       "lowerLimit": "11",
-      "upperLimit": "9999999999",
+      "upperLimit": "9999",
       "purchaseQty": "11",
       "freeQty": "1",
       "purchaseItems": [
