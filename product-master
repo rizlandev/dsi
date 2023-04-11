@@ -1,0 +1,58 @@
+{
+  "result": true,
+  "productMaster": [
+    {
+      "productSfa": [
+        {
+          "sfaId": 1,
+          "sfaName": "Biscuit SFA",
+          "productCompany": [
+            {
+              "compId": 1,
+              "compName": "Maliban Biscuit Manufactories (Pvt) Ltd MBM",
+              "compShort": "MBM",
+              "productDivision": [
+                {
+                  "diviId": 1,
+                  "diviName": "Biscuit"
+                },
+                {
+                  "diviId": 2,
+                  "diviName": "Chocolate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sfaId": 2,
+          "sfaName": "Milk & Agri SFA",
+          "productCompany": [
+            {
+              "compId": 2,
+              "compName": "Maliban Milk Products (Pvt) Ltd",
+              "compShort": "MMP",
+              "productDivision": [
+                {
+                  "diviId": 2,
+                  "diviName": "Milk"
+                }
+              ]
+            },
+            {
+              "compId": 3,
+              "compName": "Maliban Dairy and Agri  Products (Pvt) Ltd",
+              "compShort": "MDAP",
+              "productDivision": [
+                {
+                  "diviId": 3,
+                  "diviName": "Tea"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
