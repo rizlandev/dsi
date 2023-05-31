@@ -1,0 +1,52 @@
+{
+  "result": "true",
+  "order": [
+    {
+      "order_id": "xxxx",
+      "order_type": 1,
+      "outlet_id": "10930",
+      "order_no": "XXX/XXX/www/010068",
+      "outlet_name": "HANSANI STORES",
+      "outlet_code": "gdff",
+      "outlet_address": "NO.69,WEWALDUWA,KELANIYA",
+      "outlet_town": "GALLE",
+      "outlet_mobile": "0719194642",
+      "order_date": "2023-05-25",
+      "order_time": "10:05:06",
+      "tso_name": "2023-05-25",
+      "tso_mobile": "10:05:06",
+      "nos_of_style": 1,
+      "tot_units": 10,
+      "gross_amount": 124763478,
+      "wholsale_discount": 10,
+      "volume_discount": 10,
+      "promo_discount": 10,
+      "special_discount": 10,
+      "total_discount": 10,
+      "netl_amount": 10,
+      "cash_discount": 10,
+      "order_item": [
+        {
+          "o_item_id": "1222",
+          "o_item_description": "GF0376374",
+          "o_item_sequence": "1",
+          "o_itm_dss_price": "10000",
+          "o_itm_rto_price": "813.33",
+          "o_itm_value": "5525252.33",
+          "o_item_units": "10"
+        }
+      ],
+      "free_promo": [
+        {
+          "p_item_id": "1222",
+          "p_item_description": "GF0376374",
+          "p_item_sequence": "1",
+          "p_itm_dss_price": "10000",
+          "p_itm_rto_price": "813.33",
+          "p_itm_value": "554.33",
+          "p_item_units": "1"
+        }
+      ]
+    }
+  ]
+}
