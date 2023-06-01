@@ -28,7 +28,8 @@
       "order_item": [
         {
           "o_item_id": "1222",
-          "o_item_description": "GF0376374",
+          "o_item_catelog": "GF019209",
+          "o_item_description": "SML - FOOTWEAR",
           "o_item_sequence": "1",
           "o_itm_dss_price": "10000",
           "o_itm_rto_price": "813.33",
