@@ -2,7 +2,7 @@
   "result": "true",
   "order": [
     {
-      "order_id": "xxxx",
+      "order_id": 100,
       "order_type": 1,
       "outlet_id": "10930",
       "order_no": "XXX/XXX/www/010068",
