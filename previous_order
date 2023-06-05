@@ -27,27 +27,37 @@
       "cash_discount": 10,
       "order_item": [
         {
-          "o_item_id": "1222",
-          "o_item_catelog": "GF019209",
-          "o_item_description": "SML - FOOTWEAR",
+          "o_item_id": "119801",
+          "o_item_catelog": "GF017503",
+          "o_item_description": "BEAT GF0175 -ASSTD",
           "o_item_sequence": "1",
-          "o_itm_dss_price": "10000",
-          "o_itm_rto_price": "813.33",
-          "o_itm_value": "5525252.33",
+          "o_itm_dss_price": "923.20",
+          "o_itm_rto_price": "1099.00",
+          "o_itm_value": "9232.00",
+          "o_item_units": "10"
+        }, 
+        {
+          "o_item_id": "119802",
+          "o_item_catelog": "GF017504",
+          "o_item_description": "BEAT GF0175 -ASSTD",
+          "o_item_sequence": "1",
+          "o_itm_dss_price": "923.20",
+          "o_itm_rto_price": "1099.00",
+          "o_itm_value": "9232.00",
+          "o_item_units": "10"
+        },
+        {
+          "o_item_id": "119803",
+          "o_item_catelog": "GF017505",
+          "o_item_description": "BEAT GF0175 -ASSTD",
+          "o_item_sequence": "1",
+          "o_itm_dss_price": "923.20",
+          "o_itm_rto_price": "1099.00",
+          "o_itm_value": "9232.00",
           "o_item_units": "10"
         }
       ],
-      "free_promo": [
-        {
-          "p_item_id": "1222",
-          "p_item_description": "GF0376374",
-          "p_item_sequence": "1",
-          "p_itm_dss_price": "10000",
-          "p_itm_rto_price": "813.33",
-          "p_itm_value": "554.33",
-          "p_item_units": "1"
-        }
-      ]
+      "free_promo": []
     }
   ]
 }
