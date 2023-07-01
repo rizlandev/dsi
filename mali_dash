@@ -1,0 +1,22 @@
+{
+  "result": true,
+  "secondrySales": [
+    {
+      "target": 200,
+      "mtd_achievement": 100,
+      "day_achievement": 0.5, 
+      "measure": "Tons",
+      "orderType": "Pre Sales"
+    }
+  ],
+  "effectiveCoverage": [
+    {
+      "target": 275,
+      "SKU_1": 10,
+      "SKU_2": 20,
+      "SKU_3": 4,
+      "SKU_4": 20,
+      "SKU_5": 137
+    }
+  ]
+}
