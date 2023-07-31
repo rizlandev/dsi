@@ -1,0 +1,24 @@
+{
+  "result": true,
+  "cus_cat_wise_products": [
+    {
+      "productId": 71,
+      "cus_category": [
+        {
+          "cus_cat_id": 2
+        },
+        {
+          "cus_cat_id": 5
+        }
+      ]
+    },
+    {
+      "productId": 4,
+      "cus_category": [
+        {
+          "cus_cat_id": 2
+        }
+      ]
+    }
+  ]
+}
