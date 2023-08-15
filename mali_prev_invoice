@@ -1,0 +1,74 @@
+{
+  "result": true,
+  "order": [
+    {
+      "order_id": 17840,
+      "order_type": 2,
+      "outlet_id": 92517,
+      "order_no": "INV/1000/806/171/805/000001",
+      "outlet_name": "KALPANA GROCERY",
+      "outlet_code": "MBM001",
+      "outlet_address": "1257/2, BATTARAMULLA",
+      "outlet_route": "TEST ROUTE",
+      "outlet_mobile": "0704101302",
+      "outlet_vat_no": "987654321-7000",
+      "order_date": "2023-07-08",
+      "order_time": "12:42:09",
+      "sr_name": "TEST REP",
+      "sr_mobile": "0741321543",
+      "gross_amount": "77900.00",
+      "document_dis_amount": "3116.00",
+      "document_dis_percentage": "4.00",
+      "return_amount": "0.00",
+      "vat_amount": "0.00",
+      "vat_percentage": "0",
+      "payment_received": "40000.00",
+      "net_amount": "73704.00",
+      "order_items": [
+        {
+          "pro_id": 35,
+          "pro_seq_id": 35,
+          "pro_name": "Chekkers Coff 90G*50",
+          "pro_price": "117.00",
+          "pro_price_off": "0.00",
+          "pro_line_disc_percent": "0.00",
+          "pro_value": "11600.00",
+          "pro_units": 100
+        },
+        {
+          "pro_id": 71,
+          "pro_seq_id": 71,
+          "pro_name": "Chekkers Cof 195G*12",
+          "pro_price": "270.00",
+          "pro_price_off": "0.00",
+          "pro_line_disc_percent": "0.00",
+          "pro_value": "26850.00",
+          "pro_units": 100
+        }
+      ],
+      "free_items": [],
+      "return_items": [
+        {
+          "pro_id": 24,
+          "pro_seq_id": 24,
+          "pro_name": "Choco Marie 75G*60",
+          "pro_price": "90.00",
+          "pro_price_off": "0.00",
+          "pro_line_disc_percent": "0.00",
+          "pro_value": "270.00",
+          "pro_units": 3
+        },
+        {
+          "pro_id": 72,
+          "pro_seq_id": 24,
+          "pro_name": "Cheese Puff 200G*30",
+          "pro_price": "396.00",
+          "pro_price_off": "0.00",
+          "pro_line_disc_percent": "0.00",
+          "pro_value": "396.00",
+          "pro_units": 1
+        }
+      ]
+    }
+  ]
+}
