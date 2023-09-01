@@ -1,0 +1,26 @@
+{
+  "result": true,
+  "sku_target_ach": {
+    "timestamp": 1693548285,
+    "measure": "Tons",
+    "orderType": "SALES",
+    "skuTargetAch": [
+      {
+        "sku_id": 10,
+        "sku_description": "Checkers 25g",
+        "mtd_target": 2.0,
+        "mtd_achievement": 0.2984,
+        "day_target": 0.02741,
+        "day_achievement": 0.02741
+      },
+      {
+        "sku_id": 13,
+        "sku_description": "Checkers 50g",
+        "mtd_target": 3.0,
+        "mtd_achievement": 0.598429,
+        "day_target": 0.4741,
+        "day_achievement": 0.02741
+      }
+    ]
+  }
+}
