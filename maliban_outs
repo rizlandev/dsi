@@ -1,0 +1,79 @@
+{
+  "result": true,
+  "outstanding": [
+    {
+      "out_id": 2082,
+      "out_name": "M.K.G. STORES",
+      "out_address": "MARAWANAGODA ,WARELLAGAMA",
+      "invs": [
+        {
+          "i_date": "2021-12-13",
+          "i_time": "13:12:51",
+          "i_code": "DSI/INV/57/000632",
+          "i_id": 1374,
+          "inv_total": 42442.3,
+          "payment": 0,
+          "outstanding": 42442.3,
+          "type": 1
+        },
+        {
+          "i_date": "2022-01-04",
+          "i_time": "15:01:09",
+          "i_code": "DSI/INV/57/000955",
+          "i_id": 1821,
+          "inv_total": 16859.4,
+          "payment": 0,
+          "outstanding": 16859.4,
+          "type": 1
+        },
+        {
+          "i_date": "2022-02-02",
+          "i_time": "13:02:47",
+          "i_code": "DSI/INV/57/001283",
+          "i_id": 2286,
+          "inv_total": 23105.6,
+          "payment": 0,
+          "outstanding": 23105.6,
+          "type": 1
+        },
+        {
+          "i_date": "2022-03-04",
+          "i_time": "13:03:50",
+          "i_code": "DSI/INV/57/001577",
+          "i_id": 2753,
+          "inv_total": 20914,
+          "payment": 0,
+          "outstanding": 20914,
+          "type": 1
+        },
+        {
+          "i_date": "2022-04-09",
+          "i_time": "15:04:42",
+          "i_code": "DSI/INV/57/002015",
+          "i_id": 3443,
+          "inv_total": 17195,
+          "payment": 0,
+          "outstanding": 17195,
+          "type": 1
+        }
+      ]
+    },
+    {
+      "out_id": 2090,
+      "out_name": "SAMEEM STORES",
+      "out_address": "WELIGODAPOLA,HEDENIYA",
+      "invs": [
+        {
+          "i_date": "2022-06-07",
+          "i_time": "13:06:24",
+          "i_code": "DSI/INV/57/002473",
+          "i_id": 4041,
+          "inv_total": 38914,
+          "payment": 0,
+          "outstanding": 38914,
+          "type": 1
+        }
+      ]
+    }
+  ]
+}
