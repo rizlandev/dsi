@@ -1,0 +1,35 @@
+{
+  "result": true,
+  "outlet_sales": [
+    {
+      "orderId": "MBM/232/43334",
+      "ooutletId": 67,
+      "outletName": "ABC Stores",
+      "outletCode": "MBM123",
+      "product_count": 5,
+      "product_units": 10,
+      "volumet": 50,
+      "amount": 5000,
+      "return": 50,
+      "line_discount": 50,
+      "document_discount": 50,
+      "user_discount": 50,
+      "net_sale": 5044
+    },
+    {
+      "orderId": "MBM/232/454346",
+      "ooutletId": 67,
+      "outletName": "SD Stores",
+      "outletCode": "MBM143",
+      "product_count": 5,
+      "product_units": 10,
+      "volumet": 50,
+      "amount": 5000,
+      "return": 50,
+      "line_discount": 50,
+      "document_discount": 50,
+      "user_discount": 50,
+      "net_sale": 5044
+    }
+  ]
+}
