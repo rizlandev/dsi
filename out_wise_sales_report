@@ -3,7 +3,7 @@
   "outlet_sales": [
     {
       "orderId": "MBM/232/43334",
-      "ooutletId": 67,
+      "outletId": 67,
       "outletName": "ABC Stores",
       "outletCode": "MBM123",
       "product_count": 5,
@@ -18,7 +18,7 @@
     },
     {
       "orderId": "MBM/232/454346",
-      "ooutletId": 67,
+      "outletId": 67,
       "outletName": "SD Stores",
       "outletCode": "MBM143",
       "product_count": 5,
