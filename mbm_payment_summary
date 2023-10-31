@@ -1,0 +1,21 @@
+{
+  "result": true,
+  "outlet_payments": [
+    {
+      "outletId": 67,
+      "outletName": "ABC Stores",
+      "outletCode": "MBM123",
+      "cash": 50,
+      "cheque": 5000,
+      "total": 5050
+    },
+    {
+      "outletId": 12,
+      "outletName": "DF Supper",
+      "outletCode": "MBM1433",
+      "cash": 500,
+      "cheque": 500,
+      "total": 1000
+    }
+  ]
+}
