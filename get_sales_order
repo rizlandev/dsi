@@ -1,0 +1,56 @@
+{
+  "result": "true",
+  "data": [
+    {
+      "s_id": 9,
+      "orderId": "SO/225/000009",
+      "latitude": "6.8987850",
+      "longitude": "79.9165583",
+      "s_discount": "280.90",
+      "payment_type": "3",
+      "dueDate": "",
+      "type": "0",
+      "remark": "test remark",
+      "timestamp": "2023-10-17 10:33:33",
+      "mode": "0",
+      "outletId": 95,
+      "outletName": "ABC Super",
+      "outletAddress": "Colombo",
+      "nextVisitDate": "0000-00-00 00:00:00",
+      "discounts": [
+        {
+          "discountId": "2",
+          "type": "1",
+          "productId": "1",
+          "batchId": "1",
+          "discountPercentage": "5.00",
+          "suggestedDiscountPercentage": "5.00"
+        },
+        {
+          "discountId": "2",
+          "type": "1",
+          "productId": "2",
+          "batchId": "2",
+          "discountPercentage": "5.00",
+          "suggestedDiscountPercentage": "5.00"
+        }
+      ],
+      "orderItems": [
+        {
+          "price": "109.38",
+          "qty": "36",
+          "actualQty": "36",
+          "productId": "1",
+          "batchId": "1"
+        },
+        {
+          "price": "70.01",
+          "qty": "24",
+          "actualQty": "24",
+          "productId": "2",
+          "batchId": "2"
+        }
+      ]
+    }
+  ]
+}
