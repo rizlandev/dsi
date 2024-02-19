@@ -1,8 +1,8 @@
 {
   "result": true,
-  "outlet_lable": {
-  "lable_note_id": 01,
-    "lable_note": "DT",
+  "outlet_label": {
+  "label_note_id": 01,
+    "label_note": "DT",
     "outlets": [
       [
         {
