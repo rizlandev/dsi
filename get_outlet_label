@@ -4,7 +4,6 @@
   "label_note_id": 01,
     "label_note": "DT",
     "outlets": [
-      [
         {
           "outlet_id": "74561"
         },
@@ -12,6 +11,5 @@
           "outlet_id": "73735"
         }
       ]
-    ]
   }
 }
