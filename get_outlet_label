@@ -1,0 +1,17 @@
+{
+  "result": true,
+  "outlet_lable": {
+  "lable_note_id": 01,
+    "lable_note": "DT",
+    "outlets": [
+      [
+        {
+          "outlet_id": "74561"
+        },
+        {
+          "outlet_id": "73735"
+        }
+      ]
+    ]
+  }
+}
