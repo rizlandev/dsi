@@ -1,0 +1,55 @@
+{
+  "result": true,
+  "freeIssues": [
+    {
+      "freeIssueId": 3,
+      "freeLabel": "test slab",
+      "increment_by": 10,
+      "last_slab": true,
+      "purchaseItem": [
+        {
+          "productId": 1,
+          "batchId": 1,
+          "productFreePriority": 1
+        }
+      ],
+      "freeItem": [
+        {
+          "productId": 1,
+          "batchId": 1,
+          "productFreePriority": 1
+        }
+      ],
+      "freeDetails": [
+        {
+          "lowerLimit": 10,
+          "upperLimit": 29,
+          "purchaseQty": 10,
+          "freeQty": 1,
+          "isFlat": false
+        },
+        {
+          "lowerLimit": 30,
+          "upperLimit": 49,
+          "purchaseQty": 30,
+          "freeQty": 6,
+          "isFlat": false
+        },
+        {
+          "lowerLimit": 50,
+          "upperLimit": 99,
+          "purchaseQty": 50,
+          "freeQty": 15,
+          "isFlat": false
+        },
+        {
+          "lowerLimit": 100,
+          "upperLimit": 999,
+          "purchaseQty": 100,
+          "freeQty": 40,
+          "isFlat": false
+        }
+      ]
+    }
+  ]
+}
