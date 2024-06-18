@@ -1,0 +1,25 @@
+{
+  "result": true,
+  "freeBudget": [
+    {
+
+      "outlet_id": 213029,
+      "outlet_code": "OUT10",
+      "outlet_name": "ABC SUPER",
+      "products": [
+        {
+          "prod_id": 208,
+          "prod_name": "VITAGEN 200G ( TIN )*24",
+          "allocated_budget_qty": 100,
+          "balance_budget_qty": 10
+        },
+        {
+          "prod_id": 164,
+          "prod_name": "FRESH MILK 1L X 12",
+          "allocated_budget_qty": 100,
+          "balance_budget_qty": 2
+        }
+      ]
+    }
+  ]
+}
