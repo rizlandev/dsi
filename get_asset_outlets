@@ -1,0 +1,29 @@
+{
+  "result": true,
+  "outlets": [
+    {
+      "customerId": 115778,
+      "customerName": "25TEST JANAKA",
+      "assets": [
+        {
+          "assetId": 56,
+          "install_date": "2022-04-06"
+        },
+        {
+          "assetId": 57,
+          "install_date": "2022-04-07"
+        }
+      ]
+    },
+    {
+      "customerId": 109098,
+      "customerName": "OFFLINE SEQ",
+      "assets": [
+        {
+          "assetId": 57,
+          "install_date": "2022-04-05"
+        }
+      ]
+    }
+  ]
+}
