@@ -18,8 +18,8 @@
         {
               "asset_id": 57,
               "company_code": "1000",
-              "asset_name": "Biscuit Rack",
-              "asset_code": "RA0122-00003",
+              "asset_name": "Refrigerator",
+              "asset_code": "RA0122-00004",
               "asset_serial_number": "RA0122-00003-ASN",
               "supplier_name": "Test-dis",
               "rate": "1500.0",
