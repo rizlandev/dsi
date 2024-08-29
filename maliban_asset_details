@@ -28,6 +28,34 @@
               "height": "78",
               "depth": "14",
               "cubic_foot": "30.33333"
+          },
+   {
+              "asset_id": 58,
+              "company_code": "1000",
+              "asset_name": "Umbrella",
+              "asset_code": "RA0122-00004",
+              "asset_serial_number": "RA0122-00003-ASN",
+              "supplier_name": "Test-dis",
+              "rate": "1500.0",
+              "cost": "1500.0",
+              "width": "48",
+              "height": "78",
+              "depth": "14",
+              "cubic_foot": "30.33333"
+          },
+   {
+              "asset_id": 58,
+              "company_code": "1000",
+              "asset_name": "Rack",
+              "asset_code": "RA0122-00004",
+              "asset_serial_number": "RA0122-00003-ASN",
+              "supplier_name": "Test-dis",
+              "rate": "1500.0",
+              "cost": "1500.0",
+              "width": "48",
+              "height": "78",
+              "depth": "14",
+              "cubic_foot": "30.33333"
           }
       
     ]
