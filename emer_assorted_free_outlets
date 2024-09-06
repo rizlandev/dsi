@@ -11,6 +11,17 @@
           "freeIssueId": "2"
         }
       ]
+    },
+  {
+      "customerId": "6302",
+      "freeIssueSchema": [
+        {
+          "freeIssueId": "1"
+        },
+        {
+          "freeIssueId": "2"
+        }
+      ]
     }
   ]
 }
