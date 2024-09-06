@@ -1,0 +1,16 @@
+{
+  "result": true,
+  "outlets": [
+    {
+      "customerId": "1638",
+      "freeIssueSchema": [
+        {
+          "freeIssueId": "1"
+        },
+        {
+          "freeIssueId": "2"
+        }
+      ]
+    }
+  ]
+}
