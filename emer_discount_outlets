@@ -1,0 +1,27 @@
+{
+  "result": true,
+  "outlets": [
+    {
+      "customerId": "1638",
+      "discountSchema": [
+        {
+          "freeIssueId": "1"
+        },
+        {
+          "freeIssueId": "2"
+        }
+      ]
+    },
+    {
+      "customerId": "6302",
+      "discountSchema": [
+        {
+          "freeIssueId": "1"
+        },
+        {
+          "freeIssueId": "2"
+        }
+      ]
+    }
+  ]
+}
