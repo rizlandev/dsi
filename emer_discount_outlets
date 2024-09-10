@@ -5,10 +5,10 @@
       "customerId": "1638",
       "discountSchema": [
         {
-          "freeIssueId": "1"
+          "discountId": "1"
         },
         {
-          "freeIssueId": "2"
+          "discountId": "2"
         }
       ]
     },
@@ -16,10 +16,10 @@
       "customerId": "6302",
       "discountSchema": [
         {
-          "freeIssueId": "1"
+          "discountId": "1"
         },
         {
-          "freeIssueId": "2"
+          "discountId": "2"
         }
       ]
     }
