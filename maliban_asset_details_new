@@ -1,0 +1,29 @@
+{
+  "result": true,
+  "asset_master": [
+    {
+      "asset_master_id": 1,
+      "company_name": "MALIBAN BISCUIT MANUFACTURIES LIMITED",
+      "asset_name": "Rack RA/48",
+      "asset_master_code": "1",
+      "rate": "1500.0",
+      "cost": "1500.0",
+      "width": "48",
+      "height": "78",
+      "depth": "14",
+      "cubic_foot": "30.33333"
+    },
+   {
+      "asset_master_id": 2,
+      "company_name": "MALIBAN BISCUIT MANUFACTURIES LIMITED",
+      "asset_name": "Rack RA/50",
+      "asset_master_code": "2",
+      "rate": "1600.0",
+      "cost": "1600.0",
+      "width": "48",
+      "height": "78",
+      "depth": "14",
+      "cubic_foot": "30.33333"
+    }
+  ]
+}
