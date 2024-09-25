@@ -1,0 +1,18 @@
+{
+  "result": true,
+  "outlet_assets": [
+    {
+      "customerId": 212953,
+      "customerCode": "OUT-0162153",
+      "assets": {
+        "assetId": 104,
+        "assetMasterId": 1,
+        "assetCode": "RA/48/00289",
+        "assetName": "Rack RA/48",
+        "assetSerialNumber": "0522-00289",
+        "assetQrCode": "RA/48/00289 | 0522-00289 | Rack RA/48",
+        "assetInstallDate": "2022-05-30"
+      }
+    }
+  ]
+}
