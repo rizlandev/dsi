@@ -1,0 +1,50 @@
+{
+  "result": true,
+  "order": [
+    {
+      "order_id": 6047587,
+      "outlet_id": 228429,
+      "order_no": "INV/1000/xxxx",
+      "outlet_name": "KANDY FOOD CITY ",
+      "outlet_code": "OUT/726/000073",
+      "outlet_address": "KATHARAGAMA",
+      "outlet_route": "KATHARAGAMA TOWN",
+      "outlet_mobile": "0715119988",
+      "outlet_vat_no": "",
+      "order_date": "2024-10-16",
+      "order_time": "11:09:22",
+      "sr_name": "SALITHA MADURANGA",
+      "sr_mobile": "0703558007",
+      "vat_amount": "0.00",
+      "vat_percentage": 0,
+      "net_amount": "106479.74",
+      "order_items": [
+        {
+          "pro_id": 73,
+          "pro_name": "ABC 200G*12",
+          "pro_price": "207.60",
+          "pro_value": "2491.20",
+          "pro_units": "10"
+        },
+        {
+          "pro_id": 45,
+          "pro_name": "BCD 100G*30",
+          "pro_price": "117.00",
+          "pro_value": "1638.00",
+          "pro_units": "10"
+        }
+      ],
+      "free_items": [
+        {
+          "pro_id": 108,
+          "pro_name": "AB 400G*4",
+          "pro_price": 120,
+          "free_schema_id": 1,
+          "free_type": 2,  
+          "pro_value": "120.00",
+          "pro_units": "1"
+        }
+      ]
+    }
+  ]
+}
