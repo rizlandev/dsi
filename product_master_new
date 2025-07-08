@@ -1,0 +1,42 @@
+{
+  "result": true,
+  "productSfa": [
+    {
+      "sfaId": 1,
+      "sfaName": "SWADESHI SFA",
+      "productCompany": [
+        {
+          "compId": 1,
+          "compName": "SWADESHI",
+          "compShort": "SWD",
+          "productTypes": [
+            {
+              "typeId": 1,
+              "typName": "OTHER"
+            },
+            {
+              "typeId": 2,
+              "typName": "FRAGRANCE RANGE"
+            },
+            {
+              "typeId": 3,
+              "typName": "SKIN CARE RANGE"
+            },
+            {
+              "typeId": 4,
+              "typName": "BABY CARE RANGE"
+            },
+            {
+              "typeId": 5,
+              "typName": "HOUSEHOLD CARE"
+            },
+            {
+              "typeId": 6,
+              "typName": "HAIR CARE RANGE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
