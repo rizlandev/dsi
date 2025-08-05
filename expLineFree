@@ -1,0 +1,44 @@
+{
+  "result": true,
+  "freeIssues": [
+    {
+      "freeIssueId": "690",
+      "freeLabel": "one price line",
+      "FreeIssuePriority": "1",
+      "increment_by": 12,
+      "last_slab": true,
+      "purchaseItem": [
+        {
+          "productId": "306",
+          "batchId": "306",
+          "productFreePriority": 0
+        }
+      ],
+      "freeItem": [
+        {
+          "productId": "306",
+          "batchId": "306",
+          "productFreePriority": "1"
+        }
+      ],
+      "freeDetails": [
+        {
+          "lowerLimit": "12",
+          "upperLimit": "35",
+          "purchaseQty": "12",
+          "freeQty": "2",
+          "isFlat": false,
+          "isCase": false
+        },
+        {
+          "lowerLimit": "36",
+          "upperLimit": "99999999",
+          "purchaseQty": "36",
+          "freeQty": "5",
+          "isFlat": false,
+          "isCase": false
+        }
+      ]
+    }
+  ]
+}
