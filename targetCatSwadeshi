@@ -13,11 +13,13 @@
       "orderType": "Both"
     },
     "category_target": [
-      {"cat_id": 1,
+      {
+        "cat_id": 1,
         "cat_name": "xxxx",
         "cat_target": 156
       },
-      {"cat_id": 2,
+      {
+        "cat_id": 2,
         "cat_name": "yyyyy",
         "cat_target": 456
       }
