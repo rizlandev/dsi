@@ -16,12 +16,14 @@
       {
         "cat_id": 1,
         "cat_name": "xxxx",
-        "cat_target": 156
+        "cat_target": 156,
+        "cat_achiev": 10
       },
       {
         "cat_id": 2,
         "cat_name": "yyyyy",
-        "cat_target": 456
+        "cat_target": 456,
+        "cat_achiev": 20
       }
     ]
   }
