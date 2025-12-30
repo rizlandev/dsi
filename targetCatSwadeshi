@@ -1,0 +1,26 @@
+{
+  "result": true,
+  "mtd_target": {
+    "timestamp": 1766720963,
+    "sr_rank": 28,
+    "secondarySales": {
+      "target": 0,
+      "month_target": 0,
+      "mtd_achievement": -0.08,
+      "day_achievement": 0,
+      "day_sr_target": 0,
+      "measure": "Unit/Case",
+      "orderType": "Both"
+    },
+    "category_target": [
+      {"cat_id": 1,
+        "cat_name": "xxxx",
+        "cat_target": 156
+      },
+      {"cat_id": 2,
+        "cat_name": "yyyyy",
+        "cat_target": 456
+      }
+    ]
+  }
+}
